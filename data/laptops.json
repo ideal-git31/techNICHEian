@@ -1,0 +1,983 @@
+[
+{
+  "id": "9d5ab0b4-0f6b-4293-b1b6-4a43f70e28d8",
+  "name": "MacBook Air M3 (2024)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/shop/buy-mac/macbook-air/13-inch",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 104900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-2024-MacBook-Laptop-chip/dp/B0CX22C2CT",
+      "price_inr": 105990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/hi/apple-macbook-air-m3-8-gb-256-gb-ssd-macos-sonoma-mrxn3hn-a/p/itm45bd67b7758ad",
+      "price_inr": 104900
+    }
+  ],
+  "specs": {
+    "processor": "Apple M3 (8-core CPU)",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 13.6,
+    "display_type": "Liquid Retina",
+    "battery_whr": 52.6,
+    "weight_kg": 1.24,
+    "os": "macOS Sonoma",
+    "gpu": "Apple M3 8-core GPU"
+  },
+  "pros": [
+    "Outstanding battery life reaching 15-18 hours in real usage",
+    "Fanless design keeps operation completely silent",
+    "Excellent performance-per-watt from M3 chip for productivity and creative work",
+    "Premium aluminum chassis with class-leading portability"
+  ],
+  "cons": [
+    "Base 8GB RAM can become limiting for heavy multitasking",
+    "Only two USB-C ports restrict connectivity",
+    "Display remains limited to 60Hz refresh rate"
+  ],
+  "use_cases": [
+    "students",
+    "software development",
+    "office productivity",
+    "content creation",
+    "travel"
+  ],
+  "description": "The MacBook Air M3 (2024) targets students, professionals, developers, and creators who prioritize portability, premium build quality, and battery life. Positioned as Apple's mainstream ultraportable, it combines strong everyday performance with a lightweight chassis.\n\nReal-world performance is excellent for programming, office workflows, multitasking, browsing, photo editing, and moderate creative workloads. The M3 chip delivers strong single-core performance while maintaining exceptional efficiency. Because the system is fanless, long sustained heavy workloads can eventually reduce clock speeds.\n\nBattery life is among the strongest in the category, often reaching 15-18 hours during productivity use. The Liquid Retina display offers excellent brightness, sharpness, and color reproduction. Build quality remains premium with a rigid aluminum construction and industry-leading trackpad quality.\n\nPotential buyers should evaluate memory carefully because 8GB may become restrictive for heavier workloads. Port selection is limited and users wanting gaming capability or high refresh rates should consider alternatives.",
+  "image_url": "",
+  "tags": [
+    "macbook air m3",
+    "apple laptop",
+    "13 inch laptop",
+    "student laptop",
+    "ultrabook",
+    "creator laptop",
+    "long battery laptop",
+    "macos laptop",
+    "programming laptop",
+    "thin and light laptop"
+  ]
+},
+
+{
+  "id": "bb1b6dc9-f47d-47e2-96c8-a02d6d9f6b8a",
+  "name": "HP Victus 15 (2024)",
+  "brand": "HP",
+  "brand_website_url": "https://www.hp.com/in-en/shop/victus-gaming-laptop-15-fb3025ax-ay2b3pa.html",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 98999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/HP-Victus-15-fb3025AX-Backlit-fa1319TX/dp/B0D1YJR2ZY",
+      "price_inr": 94990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/hp-victus-amd-ryzen-7-octa-core-8845hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-15-fb3025ax-gaming-laptop/p/itm3f89ef7fba91d",
+      "price_inr": 96990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 8845HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 70,
+    "weight_kg": 2.29,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB"
+  },
+  "pros": [
+    "Ryzen 7 8845HS delivers excellent multi-core performance for productivity and gaming",
+    "RTX 4050 handles modern AAA games smoothly at 1080p high settings",
+    "Thermals remain relatively controlled compared to previous Victus generations",
+    "Upgrade-friendly design with accessible RAM and SSD slots"
+  ],
+  "cons": [
+    "Display brightness around 250 nits feels insufficient outdoors",
+    "Plastic-heavy chassis feels less premium than rivals",
+    "Fan noise becomes noticeable during prolonged gaming sessions"
+  ],
+  "use_cases": [
+    "gaming",
+    "engineering students",
+    "video editing",
+    "CAD workloads",
+    "streaming"
+  ],
+  "description": "The HP Victus 15 (2024) targets gamers, engineering students, creators, and users seeking strong GPU performance without moving into premium gaming laptop pricing. Positioned between mainstream and enthusiast gaming systems, it emphasizes performance and upgradeability over portability.\n\nIn real-world workloads, the Ryzen 7 8845HS performs strongly in programming, multitasking, rendering, virtualization, and productivity workloads. Combined with the RTX 4050 Laptop GPU, the machine handles modern games at 1080p high settings comfortably while also accelerating video editing, Blender rendering, and AI-assisted workflows. Cooling performance is improved over earlier Victus generations, though sustained gaming still produces audible fan noise.\n\nBattery life is reasonable for a gaming laptop thanks to the 70Wh battery, typically providing several hours of mixed productivity usage. The 15.6-inch IPS display with high refresh rate delivers smoother gaming performance, although brightness and color reproduction remain more mid-range than premium. Build quality is functional with a plastic chassis that prioritizes practicality and upgrade access.\n\nBuyers should note that portability is not a major strength due to the weight and charger size. The display is serviceable rather than exceptional, and users wanting premium materials or quieter thermals may want to consider higher-priced alternatives.",
+  "image_url": "",
+  "tags": [
+    "hp victus 15",
+    "ryzen 7 8845hs laptop",
+    "rtx 4050 gaming laptop",
+    "gaming laptop under 1 lakh",
+    "engineering laptop",
+    "video editing laptop",
+    "hp gaming laptop",
+    "cad laptop",
+    "15 inch gaming laptop",
+    "student gaming laptop"
+  ]
+},
+
+{
+  "id": "a6fbb9d0-fd1d-4865-9bc7-8b91e64c3d10",
+  "name": "Dell G15 (2024)",
+  "brand": "Dell",
+  "brand_website_url": "https://www.dell.com/en-in/shop/gaming-and-games/g15-gaming-laptop/spd/g-series-15-5530-laptop",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 114999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Dell-G15-5530-i7-13650HX-Processor-39-62cm/dp/B0C4Z8ZP9N",
+      "price_inr": 112990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/dell-g15-5530-intel-core-i7-13th-gen-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-120-hz-5530-gaming-laptop/p/itm82f2dd19a0302",
+      "price_inr": 110899
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core i7-13650HX",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 56,
+    "weight_kg": 2.65,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB"
+  },
+  "pros": [
+    "High-power RTX 4050 implementation delivers strong 1080p and entry-level 1440p gaming performance",
+    "Intel Core i7-13650HX performs very well in rendering, coding, virtualization, and multitasking workloads",
+    "Robust thermal design maintains stable performance during long gaming sessions",
+    "Multiple upgrade options for RAM and storage improve long-term usability"
+  ],
+  "cons": [
+    "Heavy 2.65 kg chassis reduces portability significantly",
+    "56Wh battery capacity provides limited unplugged gaming or productivity runtime",
+    "120Hz 250-nit panel on many variants feels average compared to competitors"
+  ],
+  "use_cases": [
+    "AAA gaming",
+    "video editing",
+    "engineering workloads",
+    "3D rendering",
+    "software development"
+  ],
+  "description": "The Dell G15 (2024), commonly sold in India as the G15 5530 series, targets gamers, engineering students, creators, and users who prioritize sustained performance over portability. It sits in Dell's mainstream gaming lineup and focuses heavily on cooling performance and upgrade flexibility.\n\nReal-world performance is strong because of the combination of the Intel Core i7-13650HX and RTX 4050 Laptop GPU. Gaming at 1080p high settings is comfortable across most modern AAA titles, while creator workloads such as Blender, Premiere Pro, CAD applications, and virtualization benefit from the HX-series processor. Thermal performance is generally stable under load, though fan noise becomes aggressive during gaming sessions.\n\nBattery life is one of the weaker areas due to the relatively small 56Wh battery combined with high-power hardware. The display experience depends heavily on configuration, but common India variants ship with a 15.6-inch 120Hz IPS panel that prioritizes refresh rate over premium brightness or color reproduction. Build quality is solid with a sturdy gaming-focused chassis, although weight remains substantial.\n\nPotential buyers should consider portability carefully because this machine is designed more as a transportable desktop replacement than a lightweight laptop. Users wanting better battery life, brighter displays, or thinner designs may find alternatives more appealing.",
+  "image_url": "",
+  "tags": [
+    "dell g15 5530",
+    "rtx 4050 gaming laptop",
+    "i7 13650hx laptop",
+    "gaming laptop 2024",
+    "engineering laptop",
+    "video editing laptop",
+    "gaming laptop under 1.2 lakh",
+    "dell gaming laptop",
+    "15 inch gaming laptop",
+    "creator laptop"
+  ]
+},
+
+{
+  "id": "f1a81d93-c4c9-44f3-bfd7-5f4a0a3b17e2",
+  "name": "Lenovo IdeaPad Slim 5 (2024)",
+  "brand": "Lenovo",
+  "brand_website_url": "https://www.lenovo.com/in/en/p/laptops/ideapad/ideapad-s-series/lenovo-ideapad-slim-5-gen-9-14-inch-amd/83dbcto1wwin1",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 81990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Lenovo-IdeaPad-Processor-14AHP9-83DB003NIN-Graphics/dp/B0D49XQ7M2",
+      "price_inr": 78990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/lenovo-ideapad-slim-5-amd-ryzen-7-octa-core-8845hs-16-gb-512-gb-ssd-windows-11-home-14ahp9-thin-light-laptop/p/itm6a44f5d1b5e77",
+      "price_inr": 79990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 8845HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 14.0,
+    "display_type": "OLED",
+    "battery_whr": 57,
+    "weight_kg": 1.46,
+    "os": "Windows 11 Home",
+    "gpu": "AMD Radeon 780M Graphics"
+  },
+  "pros": [
+    "Excellent OLED display with strong color accuracy and deep contrast",
+    "Ryzen 7 8845HS delivers strong productivity and multitasking performance",
+    "Lightweight metal construction improves portability and premium feel",
+    "Radeon 780M integrated graphics handle light gaming and creative workloads well"
+  ],
+  "cons": [
+    "RAM is soldered and limits future upgrade flexibility",
+    "OLED panel may concern users worried about long-term burn-in",
+    "Heavy sustained workloads trigger noticeable thermal throttling"
+  ],
+  "use_cases": [
+    "students",
+    "software development",
+    "office productivity",
+    "content consumption",
+    "light creative work"
+  ],
+  "description": "The Lenovo IdeaPad Slim 5 (2024) targets students, professionals, developers, and users who want a balance between performance, portability, and display quality. Positioned in Lenovo's premium mainstream segment, it focuses on delivering strong everyday performance while remaining relatively lightweight and travel friendly.\n\nIn practical usage, the Ryzen 7 8845HS performs extremely well for coding, multitasking, office applications, programming environments, light editing workloads, and browser-heavy workflows. The integrated Radeon 780M graphics are among the strongest integrated GPUs currently available, allowing casual gaming and accelerated creative applications without needing dedicated graphics hardware.\n\nBattery life is solid for an OLED laptop, generally lasting through a full productivity-focused workday. The 14-inch OLED panel is one of the standout features, delivering excellent colors, contrast, and media consumption experience. Build quality feels premium with a metal construction that is more refined than many competitors in this price bracket.\n\nBuyers should note that upgrade flexibility is limited because memory is soldered. While thermals remain acceptable for productivity usage, sustained CPU-intensive tasks reduce performance somewhat due to the thin chassis constraints.",
+  "image_url": "",
+  "tags": [
+    "lenovo ideapad slim 5",
+    "ryzen 7 8845hs laptop",
+    "oled laptop",
+    "thin and light laptop",
+    "student laptop",
+    "programming laptop",
+    "business laptop",
+    "lightweight laptop",
+    "radeon 780m laptop",
+    "office laptop"
+  ]
+},
+
+{
+  "id": "8d50d9b1-65a5-4f2c-8ca8-5f31f76d0c7b",
+  "name": "Acer Aspire 7 (2024)",
+  "brand": "Acer",
+  "brand_website_url": "https://store.acer.com/en-in/acer-aspire-7-gaming-laptop-amd-ryzen-7-7735hs-windows-11-home-16-gb-512-gb-ssd-nvidia-geforce-rtx-3050-a715-76g",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 67999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Acer-Premium-Windows-Graphics-A715-76G/dp/B0D32QG8CJ",
+      "price_inr": 65990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/acer-aspire-7-intel-core-i5-13th-gen-13420h-16-gb-512-gb-ssd-windows-11-home-4-graphics-nvidia-geforce-rtx-3050-a715-76g-gaming-laptop/p/itm8d6f6c0b95f2f",
+      "price_inr": 64990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 7735HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 50,
+    "weight_kg": 2.1,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU 6GB"
+  },
+  "pros": [
+  "Aggressive pricing for a Ryzen 7 processor combined with a discrete RTX graphics card",
+  "Upgradeable RAM and dual storage support improve longevity",
+  "Good thermal performance for the price segment",
+  "Dedicated RTX GPU enables gaming, rendering, and creator workloads"
+  ],
+  "cons": [
+    "Display brightness and color coverage are below premium standards",
+    "Battery backup is average due to smaller battery capacity",
+    "Speaker quality is relatively weak for multimedia usage"
+  ],
+  "use_cases": [
+    "students",
+    "gaming",
+    "video editing",
+    "coding",
+    "engineering workloads"
+  ],
+  "description": "The Acer Aspire 7 (2024) targets students, budget-conscious gamers, engineering users, and professionals looking for dedicated graphics without entering premium gaming laptop pricing. It occupies a value-oriented position by balancing productivity hardware with entry-level gaming capabilities.\n\nIn practical workloads, the Ryzen 7 7735HS provides strong multi-core performance for coding, multitasking, virtualization, and productivity tasks. Combined with the RTX 3050 Laptop GPU, the laptop comfortably handles esports titles, moderate AAA gaming, CAD applications, and creator workloads such as Photoshop and Premiere Pro. Thermal performance is respectable for its segment and generally avoids severe throttling.\n\nBattery life is acceptable but not exceptional due to the 50Wh battery and dedicated graphics hardware. The 15.6-inch IPS display provides sufficient smoothness and usability for work and gaming, although brightness and color reproduction remain more budget-oriented. Build quality is functional with a relatively understated design compared to aggressive gaming laptops.\n\nPotential buyers should recognize that display quality is one of the compromises made to achieve the aggressive pricing. Users prioritizing portability, premium materials, or long battery life may want thinner ultrabooks instead.",
+  "image_url": "",
+  "tags": [
+    "acer aspire 7",
+    "rtx 3050 laptop",
+    "budget gaming laptop",
+    "ryzen 7 laptop",
+    "engineering laptop",
+    "coding laptop",
+    "gaming laptop under 70000",
+    "student laptop",
+    "creator laptop",
+    "15 inch laptop"
+  ]
+},
+
+{
+  "id": "72f8d84f-cd3d-4f86-a4e0-28c90e85d9a3",
+  "name": "ASUS Vivobook 15 (2024)",
+  "brand": "ASUS",
+  "brand_website_url": "https://www.asus.com/in/laptops/for-home/vivobook/asus-vivobook-15-m1502/",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 62990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/ASUS-Vivobook-Windows-Backlit-M1502YA-BQ702WS/dp/B0D25Q9W3Q",
+      "price_inr": 59990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/asus-vivobook-15-amd-ryzen-7-octa-core-7730u-16-gb-512-gb-ssd-windows-11-home-m1502ya-bq702ws-thin-light-laptop/p/itmcb6e6fbc72b95",
+      "price_inr": 60990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 7730U",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 42,
+    "weight_kg": 1.70,
+    "os": "Windows 11 Home",
+    "gpu": "AMD Radeon Graphics"
+  },
+  "pros": [
+    "Ryzen 7 7730U provides strong productivity and multitasking performance",
+    "16GB RAM configuration offers good longevity for heavy browser and office workloads",
+    "Lightweight design makes it portable despite the larger 15.6-inch size",
+    "Good keyboard quality with full-size layout and numeric keypad"
+  ],
+  "cons": [
+    "42Wh battery capacity limits all-day battery performance",
+    "Display brightness and color reproduction are average",
+    "Integrated graphics restrict gaming and heavier creative workloads"
+  ],
+  "use_cases": [
+    "students",
+    "office productivity",
+    "programming",
+    "business work",
+    "content consumption"
+  ],
+  "description": "The ASUS Vivobook 15 (2024) is positioned as a mainstream productivity laptop aimed at students, office users, programmers, and professionals who want strong CPU performance without paying premium ultrabook pricing. It focuses primarily on balancing affordability, portability, and everyday usability.\n\nIn real-world usage, the Ryzen 7 7730U performs well for multitasking, programming, spreadsheets, office applications, browser-heavy workflows, and moderate productivity workloads. The integrated Radeon graphics are adequate for light photo editing and casual gaming but are not intended for demanding gaming or rendering tasks. Thermal performance remains generally stable due to the efficient U-series processor.\n\nBattery life is acceptable for moderate workloads but the relatively small 42Wh battery limits long unplugged sessions. The 15.6-inch IPS display offers comfortable workspace for productivity tasks, while the lightweight design and full keyboard improve usability for students and professionals. Build quality is functional with a clean, understated appearance.\n\nPotential buyers should note that display quality is more functional than premium, and integrated graphics reduce suitability for GPU-heavy workloads. Users needing stronger battery life or better displays may need to move into higher price segments.",
+  "image_url": "",
+  "tags": [
+    "asus vivobook 15",
+    "ryzen 7 7730u laptop",
+    "student laptop",
+    "office laptop",
+    "thin and light laptop",
+    "business laptop",
+    "programming laptop",
+    "15 inch productivity laptop",
+    "asus laptop",
+    "budget productivity laptop"
+  ]
+},
+
+{
+  "id": "31d4ecb2-4ef6-46c4-b4e6-c7ecf38f5db0",
+  "name": "Samsung Galaxy Book4 (2024)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/computers/galaxy-book/galaxy-book4-15-6-inch-i5-16gb-512gb-np750xgj-kg2in/",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 74990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Book4-Intel-Windows/dp/B0CX1KTZ8X",
+      "price_inr": 69990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-book4-intel-core-i5-13th-gen-1335u-16-gb-512-gb-ssd-windows-11-home-np750xgj-kg2in-thin-light-laptop/p/itm9d87c0e6db1ea",
+      "price_inr": 71990
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core i5-1335U",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 54,
+    "weight_kg": 1.55,
+    "os": "Windows 11 Home",
+    "gpu": "Intel Iris Xe Graphics"
+  },
+  "pros": [
+    "Lightweight chassis despite larger 15.6-inch form factor",
+    "Strong ecosystem integration with Samsung phones, tablets, and Galaxy devices",
+    "Good keyboard and productivity-focused design for office usage",
+    "Efficient Intel U-series processor provides solid battery life"
+  ],
+  "cons": [
+    "Display color accuracy is average compared to OLED competitors",
+    "Integrated graphics limit gaming and demanding creative tasks",
+    "RAM upgrade options are limited depending on configuration"
+  ],
+  "use_cases": [
+    "office productivity",
+    "students",
+    "business work",
+    "content consumption",
+    "programming"
+  ],
+  "description": "The Samsung Galaxy Book4 (2024) targets students, office professionals, business users, and users already invested in Samsung's ecosystem. Positioned as a mainstream productivity laptop, it prioritizes portability, efficiency, and cross-device connectivity rather than raw performance.\n\nIn everyday workloads, the Intel Core i5-1335U performs reliably for office applications, multitasking, coding, browser-heavy workflows, video conferencing, and productivity tasks. Intel Iris Xe graphics support light photo editing and media workloads but are not designed for demanding gaming or GPU-intensive creator applications. Thermal performance remains stable due to the efficient low-power processor.\n\nBattery life is one of the stronger areas, with the 54Wh battery and efficient processor combination supporting long productivity sessions. The 15.6-inch IPS panel provides comfortable screen real estate for work, while the lightweight chassis improves portability compared to many laptops in this size category. Samsung ecosystem features such as device syncing and continuity add additional value for Galaxy users.\n\nPotential buyers should note that display quality is more productivity-focused than creator-focused, and users needing stronger graphics performance or premium displays may find better alternatives in similar price segments.",
+  "image_url": "",
+  "tags": [
+    "samsung galaxy book4",
+    "intel i5 laptop",
+    "thin and light laptop",
+    "student laptop",
+    "office laptop",
+    "business laptop",
+    "windows laptop",
+    "programming laptop",
+    "samsung ecosystem laptop",
+    "15 inch productivity laptop"
+  ]
+},
+
+{
+  "id": "c7a36b64-0ef8-46fd-a8b3-95a7f39ce210",
+  "name": "HP Pavilion Plus 14 (2024)",
+  "brand": "HP",
+  "brand_website_url": "https://www.hp.com/in-en/shop/hp-pavilion-plus-laptop-14-ey0789au-a19k8pa.html",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 91999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/HP-Pavilion-14-inch-Backlit-Ey0789AU/dp/B0D4V6J7X4",
+      "price_inr": 87990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/hp-pavilion-plus-amd-ryzen-7-octa-core-8845hs-16-gb-512-gb-ssd-windows-11-home-14-ey0789au-thin-light-laptop/p/itm1ec0c71b1fd93",
+      "price_inr": 89990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 8845HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 14.0,
+    "display_type": "OLED",
+    "battery_whr": 68,
+    "weight_kg": 1.44,
+    "os": "Windows 11 Home",
+    "gpu": "AMD Radeon 780M Graphics"
+  },
+  "pros": [
+    "Excellent 2.8K OLED display with strong color accuracy and high brightness",
+    "Ryzen 7 8845HS provides strong productivity and multitasking performance",
+    "Premium aluminum construction gives a more expensive feel than competitors",
+    "Large 68Wh battery improves battery life despite OLED panel"
+  ],
+  "cons": [
+    "Memory is soldered and limits upgrade options",
+    "Under sustained heavy loads the thin chassis gets warm",
+    "Integrated graphics restrict heavier gaming workloads"
+  ],
+  "use_cases": [
+    "content creation",
+    "students",
+    "programming",
+    "office productivity",
+    "business work"
+  ],
+  "description": "The HP Pavilion Plus 14 (2024) targets students, professionals, developers, and creators who want a premium thin-and-light laptop without moving into flagship ultrabook pricing. Positioned above standard Pavilion models, it focuses on display quality, portability, and strong processor performance.\n\nIn real-world workloads, the Ryzen 7 8845HS performs extremely well for coding, multitasking, office work, productivity applications, photo editing, and light creative workflows. The Radeon 780M integrated graphics are among the strongest integrated GPUs available and can comfortably handle light gaming and GPU-accelerated workloads. Thermal performance remains acceptable although prolonged heavy loads increase temperatures due to the slim chassis.\n\nBattery performance is strong thanks to the large 68Wh battery and efficient processor architecture. The 14-inch OLED display is a major highlight, delivering excellent contrast, vibrant colors, and high sharpness that benefit both media consumption and creative tasks. Build quality feels premium with an aluminum chassis and compact design.\n\nPotential buyers should note that upgradeability is limited because RAM is soldered. Users seeking dedicated graphics performance for gaming or intensive rendering workloads may need machines with discrete GPUs.",
+  "image_url": "",
+  "tags": [
+    "hp pavilion plus 14",
+    "oled laptop",
+    "ryzen 7 8845hs laptop",
+    "thin and light laptop",
+    "creator laptop",
+    "student laptop",
+    "programming laptop",
+    "premium laptop",
+    "business laptop",
+    "14 inch laptop"
+  ]
+},
+
+{
+  "id": "e1c6ab54-10fa-4f4c-89f7-c5dc6fd6f7c1",
+  "name": "Lenovo LOQ 15 (2024)",
+  "brand": "Lenovo",
+  "brand_website_url": "https://www.lenovo.com/in/en/p/laptops/loq-laptops/lenovo-loq-15arp9/83jccto1wwin1",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 104990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Lenovo-15ARP9-39-62cm-300Nits-83JC0045IN/dp/B0D6Y4W2KL",
+      "price_inr": 99990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/lenovo-loq-amd-ryzen-7-octa-core-8845hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-15arp9-gaming-laptop/p/itm8dfbde5fa8f88",
+      "price_inr": 101990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 8845HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 60,
+    "weight_kg": 2.38,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB"
+  },
+  "pros": [
+    "High TGP RTX 4050 implementation delivers strong gaming and creator performance",
+    "Thermal design handles sustained loads better than many competitors in this segment",
+    "Upgradeable memory and storage improve long-term usability",
+    "144Hz display and MUX switch improve gaming responsiveness"
+  ],
+  "cons": [
+    "Battery life is average for mixed productivity workloads",
+    "Chassis is bulky and less portable than thin laptops",
+    "Fans become loud under gaming and rendering loads"
+  ],
+  "use_cases": [
+    "AAA gaming",
+    "engineering students",
+    "video editing",
+    "3D rendering",
+    "software development"
+  ],
+  "description": "The Lenovo LOQ 15 (2024) is positioned as a performance-focused gaming laptop targeting gamers, engineering students, creators, and power users who need strong GPU capability without moving into premium Legion pricing. It focuses heavily on value, upgradeability, and sustained performance.\n\nIn practical usage, the Ryzen 7 8845HS delivers strong multi-core performance for coding, virtualization, productivity workloads, and creator applications. Combined with the RTX 4050 Laptop GPU, the system handles modern AAA gaming at 1080p high settings, video editing, CAD applications, Blender rendering, and GPU-accelerated workflows comfortably. Lenovo's cooling solution performs well under prolonged workloads, maintaining stable clocks with manageable temperatures.\n\nBattery life is acceptable for a gaming-focused machine but remains weaker than productivity laptops due to high-performance hardware. The 15.6-inch 144Hz IPS panel provides smoother gaming experiences while maintaining decent brightness and color quality. Build quality is practical rather than premium, with a sturdy design and relatively easy upgrade access.\n\nPotential buyers should understand that portability is not a priority here. Fan noise becomes noticeable during heavy workloads, and users prioritizing mobility or battery life may prefer thinner alternatives.",
+  "image_url": "",
+  "tags": [
+    "lenovo loq 15",
+    "rtx 4050 laptop",
+    "ryzen 7 8845hs",
+    "gaming laptop under 1 lakh",
+    "engineering laptop",
+    "creator laptop",
+    "144hz gaming laptop",
+    "video editing laptop",
+    "cad laptop",
+    "gaming laptop 2024"
+  ]
+},
+
+{
+  "id": "fa27a22c-7c73-42d8-b9d3-c35f88202b5d",
+  "name": "MSI Thin 15 (2024)",
+  "brand": "MSI",
+  "brand_website_url": "https://in.msi.com/Laptop/Thin-15-B13VX",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 89990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/MSI-Thin-i7-13620H-Windows-B13VE-1802IN/dp/B0CVL7GZ5D",
+      "price_inr": 85990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/msi-thin-15-intel-core-i7-13th-gen-13620h-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-b13ve-1802in-gaming-laptop/p/itm57a78f9b9d311",
+      "price_inr": 87990
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core i7-13620H",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 52,
+    "weight_kg": 1.86,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB"
+  },
+  "pros": [
+    "Relatively lightweight for a gaming laptop category",
+    "RTX 4050 handles modern games and creator workloads well",
+    "Good CPU performance for multitasking and development work",
+    "Upgradeable RAM and storage configuration"
+  ],
+  "cons": [
+    "Lower power GPU implementation than some competitors",
+    "Display brightness and colors are average",
+    "Battery life remains weak under mixed workloads"
+  ],
+  "use_cases": [
+    "gaming",
+    "engineering",
+    "video editing",
+    "coding",
+    "college students"
+  ],
+  "description": "The MSI Thin 15 (2024) targets students, gamers, and creators wanting gaming hardware in a lighter chassis. Positioned below premium gaming models, it prioritizes portability and affordability.\n\nThe Intel Core i7-13620H combined with RTX 4050 performs well for gaming, productivity, programming, and editing workloads. However, the lower-powered GPU configuration means performance trails thicker gaming laptops.\n\nBattery life remains typical for gaming machines and users should expect moderate unplugged productivity time. Build quality is functional while portability is better than many gaming competitors.\n\nUsers wanting maximum gaming performance may prefer thicker systems with higher TGP GPUs.",
+  "image_url": "",
+  "tags": [
+  "msi thin 15",
+  "rtx 4050 laptop",
+  "lightweight gaming laptop",
+  "gaming laptop",
+  "engineering laptop",
+  "creator laptop",
+  "msi gaming india",
+  "i7 13620h laptop"
+  ]
+},
+
+{
+  "id": "d4c2d2e6-b67f-46db-ae31-f62e1c88f091",
+  "name": "Dell XPS 13 (2024)",
+  "brand": "Dell",
+  "brand_website_url": "https://www.dell.com/en-in/shop/laptops/xps-13-laptop/spd/xps-13-9340-laptop",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 149990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Dell-XPS-9340-Ultra-Windows-OLED/dp/B0D2JQW2ZN",
+      "price_inr": 146990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/dell-xps-13-intel-core-ultra-7-155h-16-gb-512-gb-ssd-windows-11-home-9340-thin-light-laptop/p/itm3e2f99f1ea1db",
+      "price_inr": 148990
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core Ultra 7 155H",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 13.4,
+    "display_type": "OLED",
+    "battery_whr": 55,
+    "weight_kg": 1.19,
+    "os": "Windows 11 Home",
+    "gpu": "Intel Arc Graphics"
+  },
+  "pros": [
+    "Premium CNC aluminum build quality",
+    "Excellent OLED display quality",
+    "Very portable and lightweight",
+    "Strong efficiency from Core Ultra platform"
+  ],
+  "cons": [
+    "Very limited port selection",
+    "Expensive compared to similarly performing competitors",
+    "Keyboard and touch bar design may divide opinions"
+  ],
+  "use_cases": [
+    "business",
+    "students",
+    "travel",
+    "programming",
+    "productivity"
+  ],
+  "description": "The Dell XPS 13 (2024) is aimed at professionals and premium ultrabook buyers wanting portability and build quality.\n\nIntel Core Ultra processors deliver strong efficiency and productivity performance while Intel Arc graphics assist light creative work.\n\nThe OLED panel is a standout feature with strong colors and contrast. Battery life is good while portability remains among the best in class.\n\nPort limitations and premium pricing are major considerations.",
+  "image_url": "",
+  "tags": [
+    "dell xps 13",
+    "premium ultrabook",
+    "oled laptop",
+    "business laptop",
+    "travel laptop",
+    "intel core ultra laptop",
+    "cnc aluminum laptop",
+    "dell premium notebook"
+  ]
+},
+
+{
+  "id": "0f4caa38-d7e1-4b0d-9e47-1ca8dc6354a5",
+  "name": "ASUS Zenbook 14 OLED (2024)",
+  "brand": "ASUS",
+  "brand_website_url": "https://www.asus.com/in/laptops/for-home/zenbook/asus-zenbook-14-oled-ux3405/",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 99990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/ASUS-Zenbook-14-OLED-UX3405MA/dp/B0CV4GYL8T",
+      "price_inr": 95990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/asus-zenbook-14-oled-intel-core-ultra-5-125h-16-gb-512-gb-ssd-windows-11-home-ux3405ma-thin-light-laptop/p/itm4f29fdfacb7f0",
+      "price_inr": 97990
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core Ultra 5 125H",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 14.0,
+    "display_type": "OLED",
+    "battery_whr": 75,
+    "weight_kg": 1.20,
+    "os": "Windows 11 Home",
+    "gpu": "Intel Arc Graphics"
+  },
+  "pros": [
+    "Outstanding OLED display quality",
+    "Excellent battery life from 75Wh battery",
+    "Very lightweight premium chassis",
+    "Good efficiency and AI capabilities with Core Ultra"
+  ],
+  "cons": [
+    "RAM is soldered",
+    "Integrated graphics limit gaming",
+    "Premium pricing compared to mainstream laptops"
+  ],
+  "use_cases": [
+    "students",
+    "office work",
+    "content consumption",
+    "travel",
+    "programming"
+  ],
+  "description": "The Zenbook 14 OLED (2024) targets users wanting premium portability, battery life, and display quality.\n\nCore Ultra processors provide strong productivity performance while integrated Arc graphics support light creative tasks.\n\nThe OLED display and large battery are standout strengths while the lightweight build improves portability.\n\nUsers requiring upgradeability or gaming performance may need alternatives.",
+  "image_url": "",
+  "tags": [
+    "asus zenbook 14 oled",
+    "oled ultrabook",
+    "thin laptop",
+    "travel laptop",
+    "premium laptop",
+    "intel core ultra",
+    "zenbook 2024",
+    "long battery life laptop"
+  ]
+},
+
+{
+  "id": "b6f19f56-7f63-47d8-b0fd-9dd1a46d3b21",
+  "name": "Acer Swift Go 14 (2024)",
+  "brand": "Acer",
+  "brand_website_url": "https://store.acer.com/en-in/acer-swift-go-14-ultra-thin-laptop-sfg14-73",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 84999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Acer-Premium-Ultra-Processor-SFG14-73/dp/B0D3R4N6XZ",
+      "price_inr": 81990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/acer-swift-go-14-intel-core-ultra-5-125h-16-gb-512-gb-ssd-windows-11-home-sfg14-73-thin-light-laptop/p/itm74c93a1b4c120",
+      "price_inr": 83990
+    }
+  ],
+  "specs": {
+    "processor": "Intel Core Ultra 5 125H",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 14.0,
+    "display_type": "OLED",
+    "battery_whr": 65,
+    "weight_kg": 1.32,
+    "os": "Windows 11 Home",
+    "gpu": "Intel Arc Graphics"
+  },
+  "pros": [
+    "Excellent OLED display with high color accuracy",
+    "Strong battery life combined with lightweight chassis",
+    "Core Ultra platform provides efficient productivity performance",
+    "Good port selection including HDMI and USB4"
+  ],
+  "cons": [
+    "Integrated graphics limit demanding gaming workloads",
+    "Soldered memory reduces upgradeability",
+    "Speakers are average for media consumption"
+  ],
+  "use_cases": [
+    "students",
+    "office productivity",
+    "programming",
+    "travel",
+    "content consumption"
+  ],
+  "description": "The Acer Swift Go 14 (2024) targets users looking for a premium productivity-focused ultrabook with strong portability and display quality. Positioned between budget laptops and premium flagships, it balances features and pricing effectively.\n\nThe Intel Core Ultra 5 125H performs well for multitasking, programming, productivity, and moderate creative tasks. Intel Arc graphics help with accelerated workloads but remain unsuitable for heavy gaming.\n\nBattery life is strong due to the efficient platform and large battery. The OLED display provides vibrant colors, strong contrast, and an excellent multimedia experience.\n\nBuyers wanting upgradeability or dedicated graphics should look at alternative options.",
+  "image_url": "",
+  "tags": [
+    "acer swift go 14",
+    "oled laptop",
+    "intel core ultra laptop",
+    "thin and light laptop",
+    "student laptop",
+    "travel laptop",
+    "productivity laptop",
+    "14 inch laptop"
+  ]
+},
+
+{
+  "id": "1a0d4a53-9d87-4f7f-bf96-7d8b2d62ab9c",
+  "name": "MacBook Pro M3 (2024)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/shop/buy-mac/macbook-pro/14-inch",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 169900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-2024-MacBook-Laptop-M3-chip/dp/B0DLHBYRPS",
+      "price_inr": 164990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-macbook-pro-m3-8-gb-512-gb-ssd-macos-sonoma-mtl73hn-a/p/itmdb85d75f34f7f",
+      "price_inr": 167990
+    }
+  ],
+  "specs": {
+    "processor": "Apple M3 (8-core CPU)",
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "display_inches": 14.2,
+    "display_type": "Liquid Retina XDR",
+    "battery_whr": 72.4,
+    "weight_kg": 1.55,
+    "os": "macOS Sonoma",
+    "gpu": "Apple M3 10-core GPU"
+  },
+  "pros": [
+    "Outstanding Liquid Retina XDR display with mini-LED technology and 120Hz ProMotion",
+    "Active cooling maintains sustained performance significantly better than MacBook Air",
+    "Exceptional battery life despite high performance hardware",
+    "Premium build quality with excellent speakers, trackpad, and keyboard"
+  ],
+  "cons": [
+    "Base 8GB RAM configuration feels restrictive at this price point",
+    "Gaming compatibility remains limited compared to Windows alternatives",
+    "Upgrade pricing for RAM and storage is expensive"
+  ],
+  "use_cases": [
+    "software development",
+    "video editing",
+    "content creation",
+    "business productivity",
+    "professional workloads"
+  ],
+  "description": "The MacBook Pro M3 (2024) is designed for professionals, developers, creators, and users who need sustained performance while maintaining strong battery life and portability. Positioned above the MacBook Air lineup, it targets users requiring heavier workloads and better display quality.\n\nReal-world performance is excellent for programming, multitasking, music production, editing workflows, and productivity applications. Unlike the MacBook Air, active cooling allows the M3 processor to sustain higher performance under prolonged workloads. The 10-core GPU also improves creative workflows and GPU-accelerated applications.\n\nBattery life remains among the best in the premium laptop market, frequently lasting through full-day professional workloads. The 14.2-inch Liquid Retina XDR display is one of the strongest laptop displays available, offering excellent brightness, color accuracy, HDR performance, and 120Hz refresh rate. Build quality remains industry-leading with premium materials and excellent input devices.\n\nPotential buyers should consider memory upgrades because the base 8GB RAM configuration may feel limiting for professional workflows. Upgrade costs remain high, and users needing native gaming support may find Windows alternatives more suitable.",
+  "image_url": "",
+  "tags": [
+    "macbook pro m3",
+    "apple laptop",
+    "creator laptop",
+    "video editing laptop",
+    "programming laptop",
+    "macos laptop",
+    "professional laptop",
+    "liquid retina xdr",
+    "premium laptop",
+    "14 inch laptop"
+  ]
+},
+
+{
+  "id": "6d8c3a89-76f1-4c57-8f54-52d7c4c819bb",
+  "name": "ASUS TUF A15 (2024)",
+  "brand": "ASUS",
+  "brand_website_url": "https://in.store.asus.com/gaming-laptop-asus-tuf-gaming-a15-fa507nur-lp082w.html",
+  "category": "laptop",
+  "launch_year": 2024,
+  "base_price_inr": 99990,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/ASUS-15-6-inch-GeForce-Windows-FA507NUR-LP082W/dp/B0D5DCSNM1",
+      "price_inr": 94990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/asus-tuf-gaming-a15-amd-ryzen-7-octa-core-7435hs-16-gb-512-gb-ssd-windows-11-home-6-graphics-nvidia-geforce-rtx-4050-fa507nur-lp082w-laptop/p/itmc6ca6f861b082",
+      "price_inr": 96990
+    }
+  ],
+  "specs": {
+    "processor": "AMD Ryzen 7 7435HS",
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "display_inches": 15.6,
+    "display_type": "IPS",
+    "battery_whr": 90,
+    "weight_kg": 2.2,
+    "os": "Windows 11 Home",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU 6GB"
+  },
+  "pros": [
+    "High-power RTX 4050 implementation with up to 140W TGP delivers strong 1080p gaming performance",
+    "Large 90Wh battery provides better endurance than many gaming competitors",
+    "MUX switch and NVIDIA Advanced Optimus improve gaming efficiency and frame rates",
+    "Military-grade durability certification with strong upgradeability options"
+  ],
+  "cons": [
+    "250-nit panel brightness feels dim in brighter environments",
+    "Cooling system becomes loud under heavy gaming loads",
+    "Bulky chassis reduces portability compared to thinner alternatives"
+  ],
+  "use_cases": [
+    "AAA gaming",
+    "engineering students",
+    "video editing",
+    "3D rendering",
+    "streaming"
+  ],
+  "description": "The ASUS TUF A15 (2024) targets gamers, engineering students, creators, and users requiring strong GPU performance without entering premium gaming laptop pricing. It emphasizes performance, durability, and upgradeability over portability.\n\nIn real-world workloads, the Ryzen 7 7435HS paired with the RTX 4050 delivers strong performance in 1080p gaming, rendering, CAD software, programming workloads, and content creation. The high-power GPU implementation allows the machine to outperform many similarly priced alternatives. Thermal management is effective, although fan noise increases significantly under sustained loads.\n\nBattery performance is stronger than many gaming competitors because of the large 90Wh battery. The 15.6-inch 144Hz IPS panel offers smooth gameplay, though brightness and color performance remain mid-range rather than premium. Build quality is solid with MIL-STD durability certification and good serviceability.\n\nBuyers should note that portability is not a major strength. Users prioritizing premium displays, quieter operation, or lightweight designs may prefer thinner alternatives.",
+  "image_url": "",
+  "tags": [
+    "asus tuf a15",
+    "rtx 4050 gaming laptop",
+    "ryzen 7 7435hs",
+    "gaming laptop under 1 lakh",
+    "144hz gaming laptop",
+    "engineering laptop",
+    "creator laptop",
+    "asus gaming laptop",
+    "upgradeable laptop",
+    "15 inch gaming laptop"
+  ]
+}
+]

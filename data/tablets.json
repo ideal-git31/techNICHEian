@@ -1,0 +1,1006 @@
+[
+  {
+  "id": "7bc91e14-87c2-45c2-8db7-bab3a427fa8d",
+  "name": "Apple iPad Air M2 (2024)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/ipad-air/",
+  "category": "tablets",
+  "launch_year": 2024,
+  "base_price_inr": 59900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-iPad-Air-11-inch-Wi-Fi-128GB/dp/B0D3J2P4PQ",
+      "price_inr": 57999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-ipad-air-m2-11-inch-wi-fi-128-gb/p/itm8f6bdb27c0f8f",
+      "price_inr": 58999
+    }
+  ],
+  "specs": {
+    "processor": "Apple M2",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_inches": 11.0,
+    "display_type": "Liquid Retina IPS LCD",
+    "battery_mah": 7606,
+    "os": "iPadOS 17",
+    "weight_grams": 462,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Apple M2 chip delivers laptop-class performance for productivity and creative workloads",
+    "Supports Apple Pencil Pro and Apple Pencil USB-C for creators and students",
+    "Excellent software ecosystem with long-term update support",
+    "Thin and lightweight aluminum construction improves portability"
+  ],
+  "cons": [
+    "60Hz display feels outdated compared to premium Android tablets",
+    "Accessories like keyboard and Pencil significantly increase overall cost",
+    "Base storage may feel limited for creators handling large files"
+  ],
+  "use_cases": [
+    "students",
+    "digital artists",
+    "content creation",
+    "productivity",
+    "media consumption"
+  ],
+  "description": "The Apple iPad Air M2 (2024) targets students, professionals, creators, and users seeking flagship-level tablet performance without moving into iPad Pro pricing. Positioned between the standard iPad lineup and Pro models, it balances portability, productivity, and premium hardware extremely well.\n\nIn real-world performance, the Apple M2 chip delivers exceptional multitasking, editing, note-taking, and productivity capabilities. The integrated GPU handles demanding applications such as video editing, drawing applications, and creative workflows with ease. Thermal efficiency remains excellent due to Apple's silicon optimization and iPadOS software tuning.\n\nBattery life comfortably supports full-day productivity and media usage. The 11-inch Liquid Retina display provides strong brightness, color accuracy, and excellent stylus responsiveness, although the lack of high refresh rates becomes noticeable beside premium competitors. Build quality remains among the best in the tablet market due to the aluminum chassis and lightweight construction.\n\nPotential buyers should consider accessory costs carefully because keyboards and stylus purchases increase the overall investment substantially. Users prioritizing high refresh rate displays or OLED technology may prefer premium alternatives, but few competitors match the ecosystem integration and app optimization.",
+  "image_url": "",
+  "tags": [
+    "ipad air m2",
+    "apple tablet",
+    "ipad air 2024",
+    "student tablet",
+    "apple pencil pro",
+    "content creation tablet",
+    "m2 ipad",
+    "productivity tablet",
+    "digital art tablet",
+    "ipados tablet"
+  ]
+},
+
+{
+  "id": "94b5b0e4-63a4-4d6c-8a8d-8df3fd9d4e2f",
+  "name": "Samsung Galaxy Tab S9 FE (2023)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-s9-fe/",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 36999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Graphite-Expandable-Storage/dp/B0CJ3Q4S8Q",
+      "price_inr": 34999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-tab-s9-fe-wi-fi-128-gb-rom-10-9-inch-display/p/itm18cf0d67af96e",
+      "price_inr": 35999
+    }
+  ],
+  "specs": {
+    "processor": "Samsung Exynos 1380",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "display_inches": 10.9,
+    "display_type": "LCD",
+    "battery_mah": 8000,
+    "os": "Android 14",
+    "weight_grams": 523,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "S Pen included in the box unlike many competitors",
+    "IP68 water and dust resistance is rare in tablets",
+    "Excellent software ecosystem for productivity tasks",
+    "Strong battery life for students and note-taking"
+  ],
+  "cons": [
+    "LCD panel lacks OLED contrast levels",
+    "Exynos performance trails flagship tablets",
+    "Charging speed is relatively slow"
+  ],
+  "use_cases": [
+    "students",
+    "note taking",
+    "media consumption",
+    "productivity",
+    "digital learning"
+  ],
+  "description": "The Galaxy Tab S9 FE (2023) targets students, productivity users, and consumers wanting premium Samsung tablet features without flagship pricing. Positioned below the Tab S9 lineup, it prioritizes practicality and ecosystem integration.\n\nThe Exynos 1380 performs well for multitasking, note-taking, media consumption, and productivity workloads. Gaming performance is adequate though not flagship-level. Samsung DeX improves productivity workflows.\n\nBattery life remains excellent with the large battery and efficient chipset. The display is bright and usable, while IP68 durability and bundled S Pen add meaningful value.\n\nUsers wanting premium displays or flagship performance may prefer higher-end tablets.",
+  "image_url": "",
+  "tags": [
+    "galaxy tab s9 fe",
+    "samsung tablet",
+    "student tablet",
+    "s pen tablet",
+    "android tablet",
+    "note taking tablet",
+    "productivity tablet",
+    "tablet with stylus",
+    "samsung dex",
+    "media tablet"
+  ]
+},
+
+{
+  "id": "1cb4aee2-55f2-4b79-a22f-c879e17e9171",
+  "name": "Apple iPad Pro M4 (2024)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/ipad-pro/",
+  "category": "tablets",
+  "launch_year": 2024,
+  "base_price_inr": 99900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-iPad-Pro-11-inch-Wi-Fi/dp/B0D3J7JY1K",
+      "price_inr": 96999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-ipad-pro-m4-11-inch-wi-fi-256-gb/p/itm6dcb7d2a7cf9d",
+      "price_inr": 98999
+    }
+  ],
+  "specs": {
+    "processor": "Apple M4",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 11.0,
+    "display_type": "Ultra Retina XDR OLED",
+    "battery_mah": 8160,
+    "os": "iPadOS 17",
+    "weight_grams": 444,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "M4 processor delivers desktop-class performance",
+    "Ultra Retina XDR OLED is among the best tablet displays available",
+    "Extremely thin and lightweight design",
+    "Excellent Apple Pencil Pro support"
+  ],
+  "cons": [
+    "Accessories significantly increase total cost",
+    "iPadOS still limits some desktop workflows",
+    "Very expensive compared to competitors"
+  ],
+  "use_cases": [
+    "content creation",
+    "professional workflows",
+    "digital art",
+    "video editing",
+    "students"
+  ],
+  "description": "The iPad Pro M4 (2024) targets creators, professionals, and users demanding the highest tablet performance available. Positioned at the top of Apple's lineup, it prioritizes performance and premium hardware.\n\nThe M4 processor handles editing, multitasking, rendering, and productivity workloads effortlessly while maintaining excellent efficiency. GPU performance is among the strongest available in mobile devices.\n\nBattery life remains excellent despite the powerful internals. The OLED display offers exceptional brightness, contrast, and stylus responsiveness.\n\nThe major drawback remains cost, especially when adding accessories.",
+  "image_url": "",
+  "tags": [
+    "ipad pro m4",
+    "apple tablet",
+    "oled tablet",
+    "creator tablet",
+    "apple pencil pro",
+    "professional tablet",
+    "ipad pro 2024",
+    "content creation tablet",
+    "premium tablet",
+    "m4 ipad"
+  ]
+},
+
+{
+  "id": "0e0ab75d-cfb6-4511-b49d-b1e9842d3f7e",
+  "name": "OnePlus Pad 2 (2024)",
+  "brand": "OnePlus",
+  "brand_website_url": "https://www.oneplus.in/oneplus-pad-2",
+  "category": "tablets",
+  "launch_year": 2024,
+  "base_price_inr": 39999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OnePlus-Pad-2-Nimbus-Gray/dp/B0D8J6ZCFK",
+      "price_inr": 38999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oneplus-pad-2-wifi-256-gb-rom-12-1-inch-display/p/itm86bc6d4afbb89",
+      "price_inr": 39499
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 3",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 12.1,
+    "display_type": "LCD",
+    "battery_mah": 9510,
+    "os": "Android 14",
+    "weight_grams": 584,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Snapdragon 8 Gen 3 delivers flagship tablet performance",
+    "Large battery provides excellent endurance",
+    "Strong multitasking features improve productivity",
+    "Good value compared to premium competitors"
+  ],
+  "cons": [
+    "No OLED display at this price",
+    "Accessory ecosystem smaller than Apple or Samsung",
+    "Large size reduces portability"
+  ],
+  "use_cases": [
+    "gaming",
+    "students",
+    "productivity",
+    "media consumption",
+    "multitasking"
+  ],
+  "description": "The OnePlus Pad 2 (2024) targets productivity users and gamers wanting flagship hardware at more accessible pricing. It focuses on performance, battery life, and multitasking capabilities.\n\nThe Snapdragon 8 Gen 3 provides excellent gaming and productivity performance while remaining thermally efficient. Large display dimensions improve multitasking.\n\nBattery endurance is a major strength alongside fast charging support. Build quality feels premium despite aggressive pricing.\n\nUsers wanting OLED displays or stronger accessory ecosystems may prefer alternatives.",
+  "image_url": "",
+  "tags": [
+    "oneplus pad 2",
+    "snapdragon 8 gen 3 tablet",
+    "android tablet",
+    "gaming tablet",
+    "productivity tablet",
+    "student tablet",
+    "large tablet",
+    "tablet with stylus",
+    "oneplus tablet",
+    "media tablet"
+  ]
+},
+
+{
+  "id": "5b8f1a94-d9e7-4dc5-b8cc-0d83cf774a44",
+  "name": "Samsung Galaxy Tab S9 (2023)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-s9/",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 72999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Graphite-Storage-Battery/dp/B0CCYQZL5X",
+      "price_inr": 69999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-tab-s9-wifi-256-gb-rom-11-inch-display/p/itm74d7c07ebef62",
+      "price_inr": 70999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 2 for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "display_inches": 11.0,
+    "display_type": "Dynamic AMOLED 2X",
+    "battery_mah": 8400,
+    "os": "Android 14",
+    "weight_grams": 498,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Dynamic AMOLED 2X display delivers excellent colors and contrast",
+    "Snapdragon 8 Gen 2 provides flagship tablet performance",
+    "IP68 rating offers rare water resistance in tablets",
+    "S Pen included in-box adds productivity value"
+  ],
+  "cons": [
+    "Premium pricing compared to competitors",
+    "Accessories increase total ownership cost",
+    "Android tablet app optimization still varies"
+  ],
+  "use_cases": [
+    "gaming",
+    "productivity",
+    "digital art",
+    "students",
+    "media consumption"
+  ],
+  "description": "The Galaxy Tab S9 targets users wanting flagship Android tablet performance, premium displays, and productivity features. Positioned as Samsung's premium compact tablet, it combines portability with strong hardware.\n\nReal-world performance is excellent thanks to the Snapdragon 8 Gen 2 for Galaxy processor. Gaming, multitasking, editing applications, and DeX productivity workloads run smoothly while thermals remain controlled.\n\nBattery endurance comfortably supports all-day usage while the AMOLED display significantly improves entertainment experiences. Build quality remains excellent with IP68 protection and premium materials.\n\nPotential buyers should consider the higher cost and accessory pricing before purchase.",
+  "image_url": "",
+  "tags": [
+    "galaxy tab s9",
+    "amoled tablet",
+    "android flagship tablet",
+    "s pen tablet",
+    "gaming tablet",
+    "premium tablet",
+    "samsung dex",
+    "productivity tablet",
+    "media tablet",
+    "android tablet"
+  ]
+},
+
+{
+  "id": "83fd47a2-76a9-4d44-bd47-8165fd25c8cb",
+  "name": "Realme Pad 2 (2023)",
+  "brand": "Realme",
+  "brand_website_url": "https://www.realme.com/in/realme-pad-2",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 19999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/realme-Display-MediaTek-Expandable-Storage/dp/B0CFY3S6Q2",
+      "price_inr": 18999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/realme-pad-2-wifi-128-gb-rom-11-5-inch-display/p/itm2d2c6d3efdc73",
+      "price_inr": 19499
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Helio G99",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "display_inches": 11.5,
+    "display_type": "LCD",
+    "battery_mah": 8360,
+    "os": "Android 14",
+    "weight_grams": 518,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "pros": [
+    "Large display provides strong multimedia experience",
+    "Excellent battery life from 8360mAh battery",
+    "Affordable pricing improves value proposition",
+    "120Hz refresh rate improves smoothness"
+  ],
+  "cons": [
+    "Helio G99 limits heavier gaming workloads",
+    "No official stylus support",
+    "LCD panel lacks OLED contrast"
+  ],
+  "use_cases": [
+    "students",
+    "media consumption",
+    "reading",
+    "casual gaming",
+    "online learning"
+  ],
+  "description": "The Realme Pad 2 targets budget-conscious users wanting large displays and strong battery life. Positioned as a value-focused entertainment tablet, it emphasizes affordability.\n\nPerformance remains suitable for content consumption, web browsing, online classes, and casual gaming workloads. Heavy multitasking exposes chipset limitations.\n\nBattery life remains a standout feature while the large display improves video streaming experiences. Build quality feels solid for the price segment.\n\nUsers needing stylus support or premium productivity features should consider higher-end alternatives.",
+  "image_url": "",
+  "tags": [
+    "realme pad 2",
+    "budget tablet",
+    "student tablet",
+    "media tablet",
+    "android tablet",
+    "120hz tablet",
+    "large display tablet",
+    "affordable tablet",
+    "realme tablet",
+    "online classes tablet"
+  ]
+},
+
+{
+  "id": "a2c09af3-9622-46e5-a8d4-71c59863c0fc",
+  "name": "Xiaomi Pad 6 (2023)",
+  "brand": "Xiaomi",
+  "brand_website_url": "https://www.mi.com/in/product/xiaomi-pad-6/",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 26999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Xiaomi-Qualcomm-Snapdragon-Refresh-Storage/dp/B0C6Y7L6N8",
+      "price_inr": 25999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/xiaomi-pad-6-wifi-256-gb-rom-11-inch-display/p/itm97af7f29c4bc2",
+      "price_inr": 26499
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 870",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 11.0,
+    "display_type": "LCD",
+    "battery_mah": 8840,
+    "os": "Android 14",
+    "weight_grams": 490,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Snapdragon 870 remains powerful for gaming and productivity",
+    "144Hz display provides smoother interactions",
+    "Excellent battery endurance",
+    "Strong price-to-performance ratio"
+  ],
+  "cons": [
+    "No AMOLED panel",
+    "Accessory ecosystem smaller than Apple and Samsung",
+    "No cellular variant in common India configurations"
+  ],
+  "use_cases": [
+    "gaming",
+    "students",
+    "media consumption",
+    "productivity",
+    "note taking"
+  ],
+  "description": "The Xiaomi Pad 6 targets users wanting performance-focused tablets without premium flagship pricing. It balances gaming capability, media experience, and productivity.\n\nSnapdragon 870 performance remains excellent for gaming, multitasking, and content creation workloads. Thermal management remains stable during longer sessions.\n\nBattery life is excellent and the 144Hz panel improves overall responsiveness. Premium construction enhances overall usability.\n\nBuyers wanting OLED displays or premium accessories may prefer higher-end alternatives.",
+  "image_url": "",
+  "tags": [
+    "xiaomi pad 6",
+    "snapdragon 870 tablet",
+    "gaming tablet",
+    "student tablet",
+    "144hz tablet",
+    "android tablet",
+    "media tablet",
+    "note taking tablet",
+    "xiaomi tablet",
+    "productivity tablet"
+  ]
+},
+
+{
+  "id": "f0c7d8e1-1a3d-47f6-95c0-4a7f5f73c621",
+  "name": "Apple iPad 10th Gen (2022)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/ipad-10.9/",
+  "category": "tablets",
+  "launch_year": 2022,
+  "base_price_inr": 34900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-10-9-inch-iPad-Wi-Fi-64GB/dp/B0BJLCWFNM",
+      "price_inr": 32999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-ipad-10th-gen-wifi-64-gb-rom-10-9-inch-display/p/itm4ecf4c7e8e3f6",
+      "price_inr": 33999
+    }
+  ],
+  "specs": {
+    "processor": "Apple A14 Bionic",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "display_inches": 10.9,
+    "display_type": "Liquid Retina IPS LCD",
+    "battery_mah": 7606,
+    "os": "iPadOS 17",
+    "weight_grams": 477,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Strong software optimization improves long-term usability",
+    "A14 Bionic remains powerful for education and productivity",
+    "Premium aluminum construction improves durability",
+    "Large app ecosystem optimized specifically for tablets"
+  ],
+  "cons": [
+    "64GB base storage feels restrictive",
+    "Non-laminated display reduces stylus experience quality",
+    "Accessories remain expensive"
+  ],
+  "use_cases": [
+    "students",
+    "education",
+    "media consumption",
+    "note taking",
+    "daily productivity"
+  ],
+  "description": "The iPad 10th Gen targets students, families, and users entering Apple's tablet ecosystem. Positioned as the mainstream iPad option, it balances affordability with strong software support and usability.\n\nThe A14 Bionic processor remains capable for productivity applications, multitasking, note-taking, and entertainment workloads. Performance remains strong for education-focused usage.\n\nBattery life comfortably lasts a full day while the larger display improves productivity. Build quality remains premium despite being Apple's entry-level iPad.\n\nUsers wanting high refresh rate displays or advanced stylus experiences should consider higher-end iPads.",
+  "image_url": "",
+  "tags": [
+    "ipad 10th gen",
+    "student tablet",
+    "apple tablet",
+    "education tablet",
+    "ipad 2024",
+    "budget ipad",
+    "note taking tablet",
+    "ipados tablet",
+    "media tablet",
+    "apple ecosystem"
+  ]
+},
+
+{
+  "id": "8fd9b2f5-d38c-45fd-93e4-95c1d8a2b721",
+  "name": "Samsung Galaxy Tab A9 Plus(2023)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-a9-plus/",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 22999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Storage-Expandable-Graphite/dp/B0CLY7B8YT",
+      "price_inr": 20999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-tab-a9-plus-wifi-128-gb-rom-11-inch-display/p/itm95f8d3bcfa7d5",
+      "price_inr": 21999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 695",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_inches": 11.0,
+    "display_type": "LCD",
+    "battery_mah": 7040,
+    "os": "Android 14",
+    "weight_grams": 480,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "pros": [
+    "Affordable pricing for large-screen tablet buyers",
+    "Quad speakers improve media consumption",
+    "Good multitasking support for casual productivity",
+    "Expandable storage improves flexibility"
+  ],
+  "cons": [
+    "No stylus support",
+    "Performance limited for heavier workloads",
+    "LCD panel lacks premium contrast"
+  ],
+  "use_cases": [
+    "students",
+    "streaming",
+    "reading",
+    "casual gaming",
+    "family usage"
+  ],
+  "description": "The Galaxy Tab A9 Plus targets budget users wanting larger displays and Samsung ecosystem integration. It focuses on affordability and multimedia consumption.\n\nSnapdragon 695 performance remains suitable for browsing, streaming, classes, and casual multitasking. Heavy workloads expose hardware limitations.\n\nBattery endurance is reliable while quad speakers improve entertainment experiences. Large display dimensions benefit content consumption.\n\nUsers wanting stylus functionality or premium productivity features should consider higher-end alternatives.",
+  "image_url": "",
+  "tags": [
+    "tab a9 plus",
+    "budget tablet",
+    "samsung tablet",
+    "media tablet",
+    "student tablet",
+    "android tablet",
+    "large tablet",
+    "streaming tablet",
+    "family tablet",
+    "affordable tablet"
+  ]
+},
+
+{
+  "id": "6fd0aeb3-a91c-4d6a-86c4-b25b13e8843a",
+  "name": "Lenovo Tab P12 (2023)",
+  "brand": "Lenovo",
+  "brand_website_url": "https://www.lenovo.com/in/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-p12/",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 29999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Lenovo-Display-Octa-core-Processor-ZACH0112IN/dp/B0CKYV7LBP",
+      "price_inr": 27999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/lenovo-tab-p12-8-gb-ram-256-rom-12-7-inch-display/p/itmca41ebfbcbca1",
+      "price_inr": 28999
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Dimensity 7050",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 12.7,
+    "display_type": "LCD",
+    "battery_mah": 10200,
+    "os": "Android 14",
+    "weight_grams": 615,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Large display improves productivity workflows",
+    "Strong battery endurance from 10200mAh battery",
+    "Stylus support improves note-taking capabilities",
+    "Large screen improves multitasking"
+  ],
+  "cons": [
+    "Large dimensions reduce portability",
+    "LCD panel instead of OLED",
+    "Gaming performance is moderate"
+  ],
+  "use_cases": [
+    "students",
+    "productivity",
+    "note taking",
+    "multitasking",
+    "media consumption"
+  ],
+  "description": "The Lenovo Tab P12 targets productivity users and students needing larger displays and stylus functionality. It prioritizes screen size and battery life.\n\nPerformance remains suitable for productivity workloads, multitasking, and education applications. Heavy gaming is not its primary focus.\n\nBattery life is excellent while stylus support adds educational value. The large screen significantly improves split-screen workflows.\n\nUsers prioritizing portability may find its dimensions challenging.",
+  "image_url": "",
+  "tags": [
+    "lenovo tab p12",
+    "large tablet",
+    "student tablet",
+    "stylus tablet",
+    "productivity tablet",
+    "android tablet",
+    "12 inch tablet",
+    "note taking tablet",
+    "multitasking tablet",
+    "education tablet"
+  ]
+},
+
+{
+  "id": "cf8d0ae2-6f2f-42df-9f64-4f6f0b9f2a85",
+  "name": "Honor Pad 9 (2024)",
+  "brand": "Honor",
+  "brand_website_url": "https://www.honor.com/in/tablets/honor-pad-9/",
+  "category": "tablets",
+  "launch_year": 2024,
+  "base_price_inr": 24999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/HONOR-Display-Snapdragon-Processor-Speakers/dp/B0CV4M4S6P",
+      "price_inr": 22999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/honor-pad-9-wifi-256-gb-rom-12-1-inch-display/p/itm3a2e0cd1e51a9",
+      "price_inr": 23999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 6 Gen 1",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "display_inches": 12.1,
+    "display_type": "LCD",
+    "battery_mah": 8300,
+    "os": "Android 14",
+    "weight_grams": 555,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "pros": [
+    "Large 12.1-inch display improves media and productivity experience",
+    "Eight-speaker setup delivers strong multimedia performance",
+    "Slim metal body improves premium feel",
+    "Large storage capacity benefits students and media users"
+  ],
+  "cons": [
+    "No official stylus support",
+    "Gaming performance is only moderate",
+    "LCD display lacks OLED contrast levels"
+  ],
+  "use_cases": [
+    "media consumption",
+    "students",
+    "online learning",
+    "reading",
+    "multitasking"
+  ],
+  "description": "The Honor Pad 9 targets students, entertainment users, and users wanting large-screen tablets without premium pricing. Positioned in the upper budget segment, it emphasizes display size and multimedia performance.\n\nThe Snapdragon 6 Gen 1 handles browsing, streaming, multitasking, and educational applications smoothly. Gaming performance remains moderate for demanding workloads.\n\nBattery life remains strong due to the large battery while the eight-speaker setup significantly improves entertainment experiences. The thin metal design improves handling despite the larger footprint.\n\nUsers requiring stylus functionality or creator-focused features may prefer alternatives.",
+  "image_url": "",
+  "tags": [
+    "honor pad 9",
+    "large tablet",
+    "student tablet",
+    "multimedia tablet",
+    "android tablet",
+    "budget tablet",
+    "12 inch tablet",
+    "streaming tablet",
+    "education tablet",
+    "honor tablet"
+  ]
+},
+
+{
+  "id": "b4d18a7e-7a44-48c8-b16b-65e2e4a6b320",
+  "name": "OnePlus Pad Go (2023)",
+  "brand": "OnePlus",
+  "brand_website_url": "https://www.oneplus.in/oneplus-pad-go",
+  "category": "tablets",
+  "launch_year": 2023,
+  "base_price_inr": 19999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OnePlus-Display-Dolby-Storage-TwinMint/dp/B0CKTRB7K7",
+      "price_inr": 18999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oneplus-pad-go-wifi-128-gb-rom-11-35-inch-display/p/itm9123a2a31bc6f",
+      "price_inr": 19499
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Helio G99",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_inches": 11.35,
+    "display_type": "LCD",
+    "battery_mah": 8000,
+    "os": "Android 14",
+    "weight_grams": 532,
+    "stylus_support": false,
+    "cellular": false
+  },
+  "pros": [
+    "Affordable pricing with premium design language",
+    "Good battery life for daily workloads",
+    "Quad speakers improve media experience",
+    "Large display improves productivity and reading"
+  ],
+  "cons": [
+    "No stylus support",
+    "Gaming performance is limited",
+    "LCD panel lacks premium contrast"
+  ],
+  "use_cases": [
+    "students",
+    "media consumption",
+    "reading",
+    "online learning",
+    "daily productivity"
+  ],
+  "description": "The OnePlus Pad Go targets users wanting affordable tablets with good multimedia capabilities and strong battery life. It emphasizes value and everyday usability.\n\nThe Helio G99 processor performs adequately for classes, browsing, content streaming, and casual workloads. Heavier multitasking exposes performance limitations.\n\nBattery endurance is reliable while the large display and speakers improve entertainment experiences. Design quality feels more premium than typical budget tablets.\n\nUsers requiring stylus features or stronger productivity tools may need higher-end alternatives.",
+  "image_url": "",
+  "tags": [
+    "oneplus pad go",
+    "budget tablet",
+    "student tablet",
+    "media tablet",
+    "android tablet",
+    "affordable tablet",
+    "large display tablet",
+    "reading tablet",
+    "online classes tablet",
+    "oneplus tablet"
+  ]
+},
+
+{
+  "id": "0fa2dfd7-02c3-4833-8d79-f32196cb7fd5",
+  "name": "Moto Tab G70 (2022)",
+  "brand": "Motorola",
+  "brand_website_url": "https://www.motorola.in/tablets",
+  "category": "tablets",
+  "launch_year": 2022,
+  "base_price_inr": 21999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Motorola-11-inch-Tablet-Expandable-Storage/dp/B09Q8YJH2N",
+      "price_inr": 19999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/moto-tab-g70-lte-64-gb-rom-11-inch-display/p/itm6f0c3d21c0d74",
+      "price_inr": 20999
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Helio G90T",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "display_inches": 11.0,
+    "display_type": "LCD",
+    "battery_mah": 7700,
+    "os": "Android 13",
+    "weight_grams": 500,
+    "stylus_support": false,
+    "cellular": true
+  },
+  "pros": [
+    "LTE support improves portability",
+    "Good display quality for streaming",
+    "Expandable storage support",
+    "Reliable multimedia experience"
+  ],
+  "cons": [
+    "Older chipset limits performance",
+    "Software support is limited",
+    "RAM configuration feels restrictive"
+  ],
+  "use_cases": [
+    "media consumption",
+    "travel",
+    "students",
+    "streaming",
+    "reading"
+  ],
+  "description": "The Moto Tab G70 targets budget users wanting LTE connectivity and large displays for multimedia workloads. It focuses primarily on entertainment and portability.\n\nPerformance remains suitable for browsing, streaming, reading, and educational tasks. Heavy multitasking and gaming reveal hardware limitations.\n\nBattery life is reliable while the display and speaker setup support media consumption well. LTE support adds flexibility for mobile users.\n\nUsers prioritizing long-term performance or productivity features should consider newer alternatives.",
+  "image_url": "",
+  "tags": [
+    "moto tab g70",
+    "lte tablet",
+    "budget tablet",
+    "student tablet",
+    "android tablet",
+    "media tablet",
+    "motorola tablet",
+    "travel tablet",
+    "streaming tablet",
+    "affordable tablet"
+  ]
+},
+
+{
+  "id": "92fd97d2-b11b-4df6-a4d9-44a45d5f0e82",
+  "name": "Nokia T21 (2022)",
+  "brand": "Nokia",
+  "brand_website_url": "https://www.nokia.com/phones/en_in/nokia-t-21",
+  "category": "tablets",
+  "launch_year": 2022,
+  "base_price_inr": 17999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Nokia-T21-Tablet-Display-Expandable/dp/B0BJ7W7S9N",
+      "price_inr": 16999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/nokia-t21-wifi-cellular-64-gb-rom-10-4-inch-display/p/itm5f33f43fbc62e",
+      "price_inr": 17499
+    }
+  ],
+  "specs": {
+    "processor": "Unisoc T612",
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "display_inches": 10.4,
+    "display_type": "LCD",
+    "battery_mah": 8200,
+    "os": "Android 13",
+    "weight_grams": 466,
+    "stylus_support": true,
+    "cellular": true
+  },
+  "pros": [
+    "LTE connectivity improves portability and flexibility",
+    "Strong battery endurance for education and media workloads",
+    "Stylus compatibility improves note-taking usage",
+    "Relatively clean Android software experience"
+  ],
+  "cons": [
+    "Processor performance is limited for heavy multitasking",
+    "Only 4GB RAM restricts demanding workloads",
+    "Display quality trails premium tablets"
+  ],
+  "use_cases": [
+    "students",
+    "online learning",
+    "reading",
+    "media consumption",
+    "travel"
+  ],
+  "description": "The Nokia T21 targets students, education users, and buyers wanting affordable tablets with LTE connectivity. Positioned in the entry-level segment, it prioritizes battery life and practicality over performance.\n\nThe Unisoc T612 processor handles browsing, streaming, note-taking, and lightweight productivity workloads adequately. Heavy multitasking and gaming performance remain limited.\n\nBattery life is a major advantage due to the large battery capacity. The display remains suitable for educational workloads and media consumption while LTE support increases portability.\n\nUsers requiring stronger productivity performance or premium displays should consider higher-end alternatives.",
+  "image_url": "",
+  "tags": [
+    "nokia t21",
+    "budget tablet",
+    "lte tablet",
+    "student tablet",
+    "android tablet",
+    "education tablet",
+    "stylus tablet",
+    "travel tablet",
+    "media tablet",
+    "affordable tablet"
+  ]
+},
+
+{
+  "id": "5be10e90-c4e7-4429-bf96-40a76c6e0d81",
+  "name": "Redmi Pad Pro (2024)",
+  "brand": "Redmi",
+  "brand_website_url": "https://www.mi.com/in/product/redmi-pad-pro/",
+  "category": "tablets",
+  "launch_year": 2024,
+  "base_price_inr": 24999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Redmi-Pad-Pro-Snapdragon-Display/dp/B0D3M8QG2Y",
+      "price_inr": 23999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/redmi-pad-pro-wifi-128-gb-rom-12-1-inch-display/p/itm8f9bca8de8f5c",
+      "price_inr": 24499
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 7s Gen 2",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "display_inches": 12.1,
+    "display_type": "LCD",
+    "battery_mah": 10000,
+    "os": "Android 14",
+    "weight_grams": 571,
+    "stylus_support": true,
+    "cellular": false
+  },
+  "pros": [
+    "Large 12.1-inch display improves productivity and entertainment",
+    "10000mAh battery delivers excellent endurance",
+    "Snapdragon 7s Gen 2 provides balanced performance",
+    "Stylus support improves note-taking capabilities"
+  ],
+  "cons": [
+    "Large size reduces portability",
+    "LCD panel instead of OLED",
+    "Accessory ecosystem remains smaller than premium competitors"
+  ],
+  "use_cases": [
+    "students",
+    "media consumption",
+    "productivity",
+    "note taking",
+    "multitasking"
+  ],
+  "description": "The Redmi Pad Pro targets users wanting large displays, strong battery life, and balanced performance at competitive pricing. Positioned between budget and premium segments, it emphasizes value.\n\nThe Snapdragon 7s Gen 2 performs well for multitasking, streaming, note-taking, and moderate gaming. Performance remains balanced for everyday workloads.\n\nBattery life is one of its strongest advantages thanks to the 10000mAh battery. The large display improves split-screen usage and multimedia consumption.\n\nUsers prioritizing portability or premium OLED panels may prefer smaller alternatives.",
+  "image_url": "",
+  "tags": [
+    "redmi pad pro",
+    "large tablet",
+    "student tablet",
+    "android tablet",
+    "productivity tablet",
+    "note taking tablet",
+    "media tablet",
+    "snapdragon tablet",
+    "budget premium tablet",
+    "redmi tablet"
+  ]
+}
+]

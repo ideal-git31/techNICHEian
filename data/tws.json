@@ -1,0 +1,977 @@
+[
+{
+  "id": "f4d3c92b-7b5d-4d7c-b2e9-8a4f1c6d9e73",
+  "name": "Sony WF-1000XM5 (2023)",
+  "brand": "Sony",
+  "brand_website_url": "https://www.sony.co.in/electronics/truly-wireless/wf-1000xm5",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 24990,
+  "base_price_source": "Sony India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Sony-WF-1000XM5-Wireless-Cancelling-Bluetooth/dp/B0CCN969G5",
+      "price_inr": 22990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/sony-wf-1000xm5-bluetooth-headset/p/itm8c4d61f6a5b2c",
+      "price_inr": 23990
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 8,
+    "anc": true,
+    "battery_hrs_buds": 8.0,
+    "battery_hrs_case": 24.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IPX4",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Industry-leading active noise cancellation powered by Sony's Integrated Processor V2 and HD Noise Cancelling Processor QN2e",
+    "Exceptional sound quality with Dynamic Driver X and support for LDAC high-resolution wireless audio",
+    "Outstanding call quality with AI-based noise reduction and bone conduction sensors",
+    "Supports Bluetooth Multipoint, LE Audio, and advanced customization through Sony Headphones Connect app"
+  ],
+  "cons": [
+    "Premium pricing places it among the most expensive TWS earbuds available",
+    "Touch controls can be sensitive during workouts or adjustments",
+    "Foam ear tips may wear out faster than traditional silicone tips"
+  ],
+  "use_cases": [
+    "music listening",
+    "travel",
+    "office calls",
+    "commuting",
+    "audiophile listening"
+  ],
+  "description": "The Sony WF-1000XM5 is Sony's flagship true wireless earbud designed for users who prioritize best-in-class noise cancellation, premium audio quality, and advanced smart features. It competes directly with products such as the AirPods Pro 2, Bose QuietComfort Ultra Earbuds, and Sennheiser Momentum True Wireless 4. The earbuds target frequent travelers, professionals, and audio enthusiasts seeking a premium wireless listening experience.\n\nIn real-world performance, the WF-1000XM5 delivers exceptional audio quality thanks to Sony's Dynamic Driver X architecture, LDAC support, and DSEE Extreme upscaling technology. The sound signature offers deep bass, detailed mids, and clear treble while remaining highly customizable through the companion app. ANC performance remains among the strongest available in the TWS market, effectively reducing airplane cabin noise, public transport sounds, and office distractions.\n\nBattery life is excellent with up to 8 hours of playback on the earbuds with ANC enabled and up to 24 hours of total listening time when combined with the charging case. The earbuds are noticeably smaller and lighter than the previous WF-1000XM4 while maintaining a premium build quality. IPX4 water resistance provides protection against sweat and light rain, making them suitable for everyday use and workouts.\n\nPotential buyers should consider the premium price and the use of foam ear tips, which may require periodic replacement. While the earbuds excel in sound quality and ANC, users looking primarily for fitness-focused features may find more specialized alternatives. For most users seeking flagship wireless earbuds, however, the WF-1000XM5 remains one of the most complete packages available.",
+  "image_url": "",
+  "tags": [
+    "sony wf1000xm5",
+    "sony earbuds",
+    "premium tws",
+    "noise cancelling earbuds",
+    "ldac earbuds",
+    "wireless earbuds",
+    "audiophile earbuds",
+    "bluetooth 5.3 earbuds",
+    "travel earbuds",
+    "best anc earbuds"
+  ]
+},
+
+{
+  "id": "9a7d3f84-2e5c-4f7a-8b1d-6c9e4a3f2d71",
+  "name": "Apple AirPods Pro (2023)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/airpods-pro/",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 24900,
+  "base_price_source": "Apple India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-AirPods-Pro-2nd-Generation/dp/B0CHX1W1XY",
+      "price_inr": 22999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-airpods-pro-2nd-generation-magsafe-usb-c-case-bluetooth-headset/p/itm4a53c8f65a0a1",
+      "price_inr": 23499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 11,
+    "anc": true,
+    "battery_hrs_buds": 6.0,
+    "battery_hrs_case": 30.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IP54",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Exceptional integration with the Apple ecosystem including instant pairing and device switching",
+    "Industry-leading transparency mode provides highly natural environmental awareness",
+    "H2 chip enables highly effective adaptive audio and personalized spatial audio features",
+    "Charging case includes Precision Finding support through Apple's Find My network"
+  ],
+  "cons": [
+    "Many advanced features are limited to Apple devices",
+    "Sound customization options are less extensive than some competitors",
+    "Premium pricing compared to most TWS alternatives"
+  ],
+  "use_cases": [
+    "iphone users",
+    "office calls",
+    "travel",
+    "commuting",
+    "music listening"
+  ],
+  "description": "The Apple AirPods Pro (2nd Generation) (2023) targets iPhone, iPad, and Mac users who want seamless ecosystem integration, premium noise cancellation, and hassle-free usability. Positioned as Apple's flagship true wireless earbuds, they focus heavily on convenience, smart features, and balanced audio performance rather than purely audiophile tuning.\n\nIn real-world usage, the H2 chip significantly improves active noise cancellation, adaptive audio, and call quality. Sound quality is well-balanced with clean bass, detailed vocals, and strong overall clarity. Adaptive Audio intelligently blends ANC and Transparency Mode based on the user's surroundings, while Personalized Spatial Audio enhances immersive content experiences.\n\nBattery performance remains strong with up to 6 hours of playback on a single charge and up to 30 hours using the charging case. Build quality is excellent, with IP54 protection for both the earbuds and charging case. The USB-C charging case also supports wireless charging and includes Precision Finding capabilities through the Find My ecosystem.\n\nPotential buyers should note that the best features are reserved for Apple users. Android users can still use the earbuds but lose access to many ecosystem-specific functions. For users heavily invested in Apple's ecosystem, however, the AirPods Pro remain one of the most polished and convenient TWS options available.",
+  "image_url": "",
+  "tags": [
+    "airpods pro 2",
+    "apple earbuds",
+    "airpods pro usb c",
+    "noise cancelling earbuds",
+    "iphone earbuds",
+    "spatial audio",
+    "premium tws",
+    "bluetooth 5.3 earbuds",
+    "apple audio",
+    "best earbuds for iphone"
+  ]
+},
+
+{
+  "id": "d8f4b1c7-2e6a-4d8e-b9a2-5f7c3e1a9d84",
+  "name": "Samsung Galaxy Buds3 Pro (2024)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaains/",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 19999,
+  "base_price_source": "Samsung India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Buds3-Pro-Silver/dp/B0D7ZL7XG7",
+      "price_inr": 17999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-buds3-pro-bluetooth-headset/p/itm1e9b8e4e4e7c5",
+      "price_inr": 18499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 10,
+    "anc": true,
+    "battery_hrs_buds": 6.0,
+    "battery_hrs_case": 26.0,
+    "connectivity": "Bluetooth 5.4",
+    "ipx_rating": "IP57",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Dual-driver system delivers improved clarity and instrument separation compared to previous Galaxy Buds generations",
+    "Galaxy AI features such as Interpreter Mode and real-time translation enhance Samsung ecosystem integration",
+    "IP57 rating provides stronger dust and water resistance than many premium competitors",
+    "Adaptive ANC and Adaptive EQ automatically adjust audio performance based on environment and fit"
+  ],
+  "cons": [
+    "Several AI-powered features require compatible Samsung Galaxy devices",
+    "Blade-light stem design is a major departure and may not appeal to existing Galaxy Buds users",
+    "Battery life with ANC enabled is good but trails some competitors in the premium segment"
+  ],
+  "use_cases": [
+    "samsung users",
+    "travel",
+    "office calls",
+    "commuting",
+    "music listening"
+  ],
+  "description": "The Samsung Galaxy Buds3 Pro (2024) is Samsung's flagship true wireless earbud designed primarily for Galaxy smartphone users seeking premium audio quality, intelligent noise cancellation, and deep ecosystem integration. It competes directly with products such as the AirPods Pro 2, Sony WF-1000XM5, and Bose QuietComfort Ultra Earbuds while emphasizing AI-powered functionality.\n\nIn real-world usage, the dual-driver setup delivers detailed sound reproduction with improved bass response, clearer vocals, and better instrument separation than previous Galaxy Buds models. Adaptive Noise Control continuously adjusts ANC levels based on environmental conditions, while Galaxy AI features provide real-time translation and communication assistance when paired with supported Samsung devices.\n\nBattery life reaches approximately 6 hours with ANC enabled and up to 26 hours when combined with the charging case. The earbuds feature an IP57 rating, making them highly resistant to dust and water exposure. Build quality feels premium, and the redesigned stem-style form factor improves microphone placement for voice calls and communication.\n\nPotential buyers should note that the best software experiences are unlocked only within Samsung's ecosystem. Users outside the Galaxy ecosystem may not fully benefit from advanced AI features. For Samsung users seeking flagship wireless earbuds, however, the Galaxy Buds3 Pro offers one of the most complete ecosystem-focused experiences currently available.",
+  "image_url": "",
+  "tags": [
+    "samsung galaxy buds3 pro",
+    "galaxy buds pro",
+    "samsung earbuds",
+    "premium tws",
+    "noise cancelling earbuds",
+    "galaxy ai earbuds",
+    "bluetooth 5.4 earbuds",
+    "wireless earbuds",
+    "travel earbuds",
+    "best earbuds for samsung"
+  ]
+},
+
+{
+  "id": "7f8c3b91-4d5a-4f8d-b2c7-9a1e6d3f5b42",
+  "name": "Nothing Ear (2024)",
+  "brand": "Nothing",
+  "brand_website_url": "https://in.nothing.tech/products/ear",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 11999,
+  "base_price_source": "Nothing India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Nothing-Ear-Wireless-Earbuds-Cancellation/dp/B0D2DKLQ6N",
+      "price_inr": 10999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/nothing-ear-bluetooth-headset/p/itm4b5b2f39dfd89",
+      "price_inr": 11499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 11,
+    "anc": true,
+    "battery_hrs_buds": 8.5,
+    "battery_hrs_case": 40.5,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IP54",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Custom 11mm ceramic driver delivers detailed and highly engaging sound reproduction",
+    "LDAC and LHDC codec support enables high-resolution wireless audio streaming",
+    "Advanced personalization tools including hearing test and custom sound profile creation",
+    "Excellent battery life with ANC disabled while maintaining premium feature set"
+  ],
+  "cons": [
+    "ANC performance is strong but still trails Sony and Bose flagship models",
+    "Transparent case design is prone to visible scratches over time",
+    "Wireless charging speed is relatively slow compared to wired charging"
+  ],
+  "use_cases": [
+    "music listening",
+    "commuting",
+    "office calls",
+    "travel",
+    "android users"
+  ],
+  "description": "The Nothing Ear (2024) is Nothing's flagship true wireless earbud designed for users seeking premium audio quality, extensive customization options, and distinctive industrial design without entering the highest premium pricing tiers. Positioned above the Nothing Ear (a), it focuses heavily on sound quality and enthusiast-oriented features.\n\nIn real-world usage, the custom 11mm ceramic driver delivers impressive clarity, punchy bass, and strong vocal reproduction. Support for both LDAC and LHDC high-resolution codecs makes the earbuds particularly attractive for Android users who prioritize audio quality. The Nothing X application provides advanced EQ customization, hearing profile calibration, and detailed ANC controls that allow users to tailor the listening experience.\n\nBattery performance is one of the strongest aspects of the product, offering up to 8.5 hours of playback from the earbuds and more than 40 hours total with the charging case under certain conditions. Build quality remains solid with the signature transparent design language that distinguishes Nothing products from competitors. IP54 protection helps safeguard against dust and water exposure during daily use.\n\nPotential buyers should note that while ANC performance is very good, it does not quite match the industry-leading performance of Sony's WF-1000XM5 or Bose's flagship offerings. Users seeking maximum noise cancellation may prefer those alternatives, while users prioritizing customization, sound quality, and design will find the Nothing Ear (2024) particularly compelling.",
+  "image_url": "",
+  "tags": [
+    "nothing ear 2024",
+    "nothing earbuds",
+    "ldac earbuds",
+    "hi res audio earbuds",
+    "noise cancelling earbuds",
+    "premium tws",
+    "bluetooth 5.3 earbuds",
+    "transparent earbuds",
+    "android earbuds",
+    "wireless earbuds"
+  ]
+},
+
+{
+  "id": "2e6f4d9a-7b1c-4f8d-9e3a-5c7f2b1d8a64",
+  "name": "Jabra Elite 10 (2023)",
+  "brand": "Jabra",
+  "brand_website_url": "https://www.jabra.com/bluetooth-headsets/jabra-elite-10",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 22999,
+  "base_price_source": "Jabra India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Jabra-Elite-10-Bluetooth-Cancelling/dp/B0CB6B6M5Y",
+      "price_inr": 20999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/jabra-elite-10-bluetooth-headset/p/itm85f52e5d94f61",
+      "price_inr": 21499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 10,
+    "anc": true,
+    "battery_hrs_buds": 6.0,
+    "battery_hrs_case": 27.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IP57",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "ComfortFit semi-open design provides exceptional long-term wearing comfort",
+    "Advanced Adaptive Hybrid ANC performs well in office, travel, and commuting environments",
+    "Outstanding call quality powered by six microphones and intelligent voice processing",
+    "Dolby Atmos with Dolby Head Tracking enhances spatial audio experiences"
+  ],
+  "cons": [
+    "ANC performance is slightly behind Sony and Bose flagship competitors",
+    "Companion app offers fewer audio customization options than some rivals",
+    "Premium pricing places it in a highly competitive segment"
+  ],
+  "use_cases": [
+    "office calls",
+    "travel",
+    "commuting",
+    "music listening",
+    "remote work"
+  ],
+  "description": "The Jabra Elite 10 (2023) is Jabra's flagship true wireless earbud designed for professionals, frequent travelers, and users who prioritize comfort during extended listening sessions. Positioned at the premium end of the market, it competes directly with Sony WF-1000XM5, Bose QuietComfort Ultra Earbuds, and Apple AirPods Pro while differentiating itself through comfort-focused engineering and strong call performance.\n\nIn real-world performance, the 10mm drivers deliver balanced audio with detailed mids, controlled bass response, and clear vocals. Dolby Atmos support combined with Dolby Head Tracking creates a more immersive listening experience for supported content. Adaptive Hybrid ANC effectively reduces environmental distractions while maintaining natural audio reproduction. The six-microphone system consistently delivers excellent voice clarity during calls even in challenging environments.\n\nBattery life reaches approximately 6 hours on the earbuds with ANC enabled and up to 27 hours when paired with the charging case. The IP57 certification provides excellent resistance to dust and water, making the earbuds suitable for workouts and outdoor use. Build quality feels premium, while the ComfortFit design significantly reduces ear fatigue during long listening sessions.\n\nPotential buyers should note that while the ANC system performs strongly, Sony and Bose still maintain a slight advantage in maximum noise reduction capability. Users focused primarily on ANC may prefer those alternatives. However, for users seeking a combination of comfort, call quality, premium audio, and all-day wearability, the Jabra Elite 10 remains one of the strongest options in the premium TWS category.",
+  "image_url": "",
+  "tags": [
+    "jabra elite 10",
+    "jabra earbuds",
+    "premium tws",
+    "noise cancelling earbuds",
+    "dolby atmos earbuds",
+    "bluetooth 5.3 earbuds",
+    "office earbuds",
+    "travel earbuds",
+    "wireless earbuds",
+    "best earbuds for calls"
+  ]
+},
+
+{
+  "id": "8f3d7c1b-5a9e-4d2f-8c6b-3e1a9d7f4c52",
+  "name": "OnePlus Buds Pro 3 (2024)",
+  "brand": "OnePlus",
+  "brand_website_url": "https://www.oneplus.in/product/oneplus-buds-pro-3",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 11999,
+  "base_price_source": "OnePlus India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OnePlus-Buds-Pro-3-Midnight/dp/B0DD7L5R9Y",
+      "price_inr": 10999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oneplus-buds-pro-3-bluetooth-headset/p/itm4d91d2d5ab6fa",
+      "price_inr": 11499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 11,
+    "anc": true,
+    "battery_hrs_buds": 10.0,
+    "battery_hrs_case": 43.0,
+    "connectivity": "Bluetooth 5.4",
+    "ipx_rating": "IP55",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Dual-driver architecture with 11mm woofer and 6mm tweeter delivers highly detailed sound",
+    "Dynaudio tuning provides balanced audio reproduction with strong clarity and bass control",
+    "Excellent battery life significantly exceeds many premium competitors",
+    "Fast charging support provides several hours of playback from a short charging session"
+  ],
+  "cons": [
+    "Some advanced ecosystem features work best with OnePlus smartphones",
+    "ANC performance is excellent but still slightly behind Sony and Bose flagships",
+    "Large charging case is less pocket-friendly than some competitors"
+  ],
+  "use_cases": [
+    "music listening",
+    "travel",
+    "office calls",
+    "commuting",
+    "workouts"
+  ],
+  "description": "The OnePlus Buds Pro 3 (2024) represents OnePlus's flagship true wireless audio offering and is designed for users seeking premium sound quality, strong active noise cancellation, and excellent battery life at a price below many ultra-premium competitors. Positioned directly against products such as the Sony WF-1000XM5, Nothing Ear, and Galaxy Buds3 Pro, it focuses heavily on delivering flagship-level features at a more accessible price point.\n\nIn real-world usage, the dual-driver configuration consisting of an 11mm woofer and 6mm tweeter produces rich bass, detailed mids, and crisp treble. Dynaudio tuning helps create a balanced sound signature suitable for a wide variety of music genres. Adaptive ANC performs well in commuting, office, and travel environments while maintaining audio quality. Call performance is also strong thanks to multiple microphones and AI-based noise reduction.\n\nBattery life is one of the standout strengths of the product, offering up to 10 hours of playback on the earbuds and up to 43 hours combined with the charging case under optimal conditions. Build quality feels premium, and the IP55 rating provides meaningful protection against dust and water exposure. Bluetooth 5.4 connectivity improves stability and efficiency while multipoint support allows seamless switching between multiple devices.\n\nPotential buyers should note that while ANC performance is very competitive, Sony and Bose continue to hold a slight advantage in maximum noise cancellation capability. Users who prioritize ecosystem integration may also benefit most when paired with OnePlus devices. Nevertheless, the Buds Pro 3 delivers one of the strongest combinations of audio quality, battery life, and value currently available in the premium TWS segment.",
+  "image_url": "",
+  "tags": [
+    "oneplus buds pro 3",
+    "oneplus earbuds",
+    "premium tws",
+    "noise cancelling earbuds",
+    "dynaudio earbuds",
+    "bluetooth 5.4 earbuds",
+    "wireless earbuds",
+    "travel earbuds",
+    "high battery earbuds",
+    "multipoint earbuds"
+  ]
+},
+
+{
+  "id": "c2e8f1d7-5b4a-4f9d-8a7c-1d6e3f8b2a94",
+  "name": "boAt Airdopes 141 (2021)",
+  "brand": "boAt",
+  "brand_website_url": "https://www.boat-lifestyle.com/products/airdopes-141",
+  "category": "tws",
+  "launch_year": 2021,
+  "base_price_inr": 1499,
+  "base_price_source": "boAt Lifestyle",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/boAt-Airdopes-141-Bluetooth-Wireless-Earbuds/dp/B09C2V1J4K",
+      "price_inr": 1299
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/boat-airdopes-141-bluetooth-headset/p/itm4b6f6d2fce6a5",
+      "price_inr": 1399
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 8,
+    "anc": false,
+    "battery_hrs_buds": 6.0,
+    "battery_hrs_case": 42.0,
+    "connectivity": "Bluetooth 5.1",
+    "ipx_rating": "IPX4",
+    "charging_type": "USB-C",
+    "multipoint": false
+  },
+  "pros": [
+    "Excellent battery backup with up to 42 hours total playback for the price segment",
+    "ENx technology improves voice clarity during calls in noisy environments",
+    "Low-latency Beast Mode enhances mobile gaming responsiveness",
+    "USB-C charging and fast charging support are uncommon at this budget price point"
+  ],
+  "cons": [
+    "No active noise cancellation support",
+    "Audio tuning prioritizes bass over detail and balance",
+    "Bluetooth 5.1 is older than premium competitors using Bluetooth 5.3 or newer"
+  ],
+  "use_cases": [
+    "budget music listening",
+    "online classes",
+    "mobile gaming",
+    "daily commuting",
+    "voice calls"
+  ],
+  "description": "The boAt Airdopes 141 (2021) is designed for budget-conscious buyers seeking long battery life, wireless convenience, and gaming-friendly features without spending significantly on premium earbuds. It remains one of the most popular entry-level TWS products in India due to its aggressive pricing and practical feature set.\n\nIn real-world usage, the 8mm drivers produce a bass-heavy sound signature that appeals to mainstream listeners who enjoy Bollywood, EDM, and bass-focused music genres. ENx call noise reduction helps improve call quality during daily conversations, while Beast Mode reduces latency for casual gaming and video consumption. Overall performance is tuned toward convenience and entertainment rather than audiophile-grade sound quality.\n\nBattery life is the standout feature, delivering approximately 6 hours from the earbuds and up to 42 hours when combined with the charging case. The compact charging case supports USB-C charging and quick top-ups. IPX4 water resistance provides protection against sweat and light splashes, making the earbuds suitable for workouts and everyday use.\n\nPotential buyers should understand that these earbuds compete in the budget category and therefore do not offer active noise cancellation, premium codec support, or highly detailed audio reproduction. Users prioritizing sound quality or ANC should consider higher-tier options, while value-focused buyers will find the Airdopes 141 a strong budget-friendly choice.",
+  "image_url": "",
+  "tags": [
+    "boat airdopes 141",
+    "budget tws",
+    "boat earbuds",
+    "gaming earbuds",
+    "wireless earbuds",
+    "bluetooth earbuds",
+    "budget earphones",
+    "long battery earbuds",
+    "usb c earbuds",
+    "entry level tws"
+  ]
+},
+
+{
+  "id": "5d1f8a7c-3e94-4b2d-9c71-8f4e2a6d1b93",
+  "name": "Realme Buds Air 5 Pro (2023)",
+  "brand": "Realme",
+  "brand_website_url": "https://www.realme.com/in/realme-buds-air-5-pro",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 4999,
+  "base_price_source": "Realme India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/realme-Buds-Air-5-Pro-Cancellation/dp/B0C7VY8T4X",
+      "price_inr": 4699
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/realme-buds-air-5-pro-bluetooth-headset/p/itm7e7c7e6d48c9f",
+      "price_inr": 4799
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 11,
+    "anc": true,
+    "battery_hrs_buds": 11.0,
+    "battery_hrs_case": 40.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IPX5",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Dual-driver coaxial design with 11mm bass driver and 6mm micro-planar tweeter delivers impressive audio quality",
+    "50dB active noise cancellation is among the strongest in the mid-range segment",
+    "LDAC support enables high-resolution wireless audio streaming",
+    "Exceptional battery life significantly outperforms many competitors at similar pricing"
+  ],
+  "cons": [
+    "Touch controls can occasionally register accidental inputs",
+    "Transparency mode is less natural than flagship Sony or Apple alternatives",
+    "Charging case design feels less premium than higher-priced competitors"
+  ],
+  "use_cases": [
+    "music listening",
+    "commuting",
+    "travel",
+    "mobile gaming",
+    "office calls"
+  ],
+  "description": "The Realme Buds Air 5 Pro (2023) targets users seeking premium audio features, strong noise cancellation, and long battery life without paying flagship prices. Positioned in the upper mid-range TWS segment, it offers several features typically found in significantly more expensive earbuds.\n\nIn real-world performance, the dual-driver system produces rich bass, detailed vocals, and surprisingly strong treble performance for the price category. LDAC support allows compatible Android devices to stream higher-quality audio, while the 50dB ANC system effectively reduces noise during travel, office work, and daily commuting. The low-latency gaming mode also improves responsiveness during gaming sessions.\n\nBattery performance is one of the strongest aspects of the product, delivering up to 11 hours of playback from the earbuds and up to 40 hours with the charging case. Bluetooth 5.3 connectivity provides stable wireless performance, while multipoint connectivity allows simultaneous pairing with multiple devices. The IPX5 rating adds protection against sweat and light rain.\n\nPotential buyers should understand that while ANC performance is excellent for the price, flagship products from Sony, Bose, and Apple still maintain an advantage in maximum noise reduction and transparency mode quality. However, for users prioritizing value, features, and battery life, the Buds Air 5 Pro remains one of the strongest choices in its segment.",
+  "image_url": "",
+  "tags": [
+    "realme buds air 5 pro",
+    "realme earbuds",
+    "noise cancelling earbuds",
+    "ldac earbuds",
+    "budget premium tws",
+    "bluetooth 5.3 earbuds",
+    "gaming earbuds",
+    "wireless earbuds",
+    "travel earbuds",
+    "best tws under 5000"
+  ]
+},
+
+{
+  "id": "3a7d5c91-8f42-4e6b-a9d3-7c1f5e2b8d64",
+  "name": "JBL Tour Pro 2 (2023)",
+  "brand": "JBL",
+  "brand_website_url": "https://in.jbl.com/TOUR-PRO-2.html",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 24999,
+  "base_price_source": "JBL India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/JBL-Tour-Pro-2-Cancelling/dp/B0BQRX5MZT",
+      "price_inr": 22999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/jbl-tour-pro-2-bluetooth-headset/p/itm1c2e4e8d9b0a7",
+      "price_inr": 23499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 10,
+    "anc": true,
+    "battery_hrs_buds": 10.0,
+    "battery_hrs_case": 40.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IPX5",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Industry-first smart charging case with integrated touchscreen allows control without using a smartphone",
+    "Excellent battery life with up to 40 hours total playback",
+    "Strong adaptive noise cancellation and ambient sound customization",
+    "High-quality JBL Pro Sound tuning with support for spatial audio features"
+  ],
+  "cons": [
+    "Touchscreen charging case increases size and weight compared to conventional cases",
+    "Premium pricing places it against strong competitors from Sony and Bose",
+    "Smart case features may feel unnecessary for users who primarily use phone controls"
+  ],
+  "use_cases": [
+    "travel",
+    "music listening",
+    "office calls",
+    "commuting",
+    "multidevice users"
+  ],
+  "description": "The JBL Tour Pro 2 (2023) targets premium TWS buyers who want advanced functionality, strong sound quality, and unique convenience features. Its standout feature is the smart touchscreen charging case, which allows users to control playback, adjust ANC, manage calls, and access settings without reaching for their smartphone. This positions it as one of the most innovative products in the premium wireless audio segment.\n\nIn real-world performance, the 10mm dynamic drivers deliver JBL's signature sound profile with powerful bass, clear vocals, and energetic presentation. Adaptive ANC performs well across office, travel, and commuting environments, while the customizable ambient mode allows users to adjust environmental awareness levels. Call quality is consistently strong thanks to a multi-microphone setup and intelligent noise reduction algorithms.\n\nBattery life is a major strength, providing up to 10 hours of playback from the earbuds and up to 40 hours combined with the charging case. Bluetooth 5.3 ensures stable connectivity, while multipoint support allows seamless switching between devices. The IPX5 rating provides sufficient protection against sweat and light rain for everyday use.\n\nPotential buyers should consider whether the touchscreen charging case provides meaningful value for their usage patterns. While it introduces unique convenience features, it also increases the size of the case and contributes to the premium price. For users who appreciate innovation and feature-rich products, however, the JBL Tour Pro 2 remains one of the most distinctive TWS offerings currently available.",
+  "image_url": "",
+  "tags": [
+    "jbl tour pro 2",
+    "jbl earbuds",
+    "smart charging case",
+    "premium tws",
+    "noise cancelling earbuds",
+    "bluetooth 5.3 earbuds",
+    "travel earbuds",
+    "wireless earbuds",
+    "multipoint earbuds",
+    "touchscreen case earbuds"
+  ]
+},
+
+{
+  "id": "4f8c2d91-7a3e-4b6d-9f15-2c8a7e3d5b61",
+  "name": "Noise Buds VS104 (2022)",
+  "brand": "Noise",
+  "brand_website_url": "https://www.gonoise.com/products/noise-buds-vs104",
+  "category": "tws",
+  "launch_year": 2022,
+  "base_price_inr": 1499,
+  "base_price_source": "Noise India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Noise-Buds-VS104-Bluetooth-Earbuds/dp/B0BW5T7Q4H",
+      "price_inr": 1299
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/noise-buds-vs104-bluetooth-headset/p/itm6d5f8a1c4f5b7",
+      "price_inr": 1399
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 13,
+    "anc": false,
+    "battery_hrs_buds": 8.0,
+    "battery_hrs_case": 36.0,
+    "connectivity": "Bluetooth 5.2",
+    "ipx_rating": "IPX5",
+    "charging_type": "USB-C",
+    "multipoint": false
+  },
+  "pros": [
+    "Large 13mm drivers deliver strong bass response suitable for mainstream music listeners",
+    "Instacharge fast charging provides approximately 150 minutes of playback from a short charge",
+    "Quad microphone setup with ENC improves voice call quality in noisy environments",
+    "Excellent battery life for the budget TWS segment"
+  ],
+  "cons": [
+    "No active noise cancellation support",
+    "Sound tuning prioritizes bass over detail and accuracy",
+    "Lacks multipoint connectivity and premium codec support"
+  ],
+  "use_cases": [
+    "budget music listening",
+    "online classes",
+    "voice calls",
+    "daily commuting",
+    "casual workouts"
+  ],
+  "description": "The Noise Buds VS104 (2022) is designed for budget-conscious users who want reliable wireless earbuds with strong battery life, punchy audio, and practical everyday features. Positioned in the affordable TWS segment, it focuses on delivering essential functionality rather than premium features such as ANC or high-resolution audio codecs.\n\nIn real-world performance, the 13mm dynamic drivers produce a bass-forward sound signature that works well for popular music genres, movies, and casual entertainment. Environmental Noise Cancellation (ENC) helps improve voice clarity during calls, making the earbuds suitable for remote classes, work calls, and everyday communication. Bluetooth 5.2 connectivity ensures stable performance across smartphones, tablets, and laptops.\n\nBattery life is one of the strongest features of the product, offering up to 8 hours of playback from the earbuds and approximately 36 hours when combined with the charging case. The Instacharge feature provides useful emergency charging capability, while the IPX5 rating offers protection against sweat and light rain exposure during workouts or outdoor activities.\n\nPotential buyers should understand that the VS104 competes in the entry-level category and therefore lacks features such as active noise cancellation, multipoint connectivity, and advanced audio codecs. Users seeking premium sound quality or ANC should consider higher-end alternatives, while budget-focused buyers will find the Noise Buds VS104 a practical and value-oriented choice.",
+  "image_url": "",
+  "tags": [
+    "noise buds vs104",
+    "noise earbuds",
+    "budget tws",
+    "bluetooth earbuds",
+    "wireless earbuds",
+    "gaming earbuds",
+    "budget earphones",
+    "usb c earbuds",
+    "long battery earbuds",
+    "best tws under 1500"
+  ]
+},
+
+{
+  "id": "1b7e4c9d-6f2a-4d8b-9c3f-5a8d1e7b2c94",
+  "name": "Sennheiser Momentum True Wireless 4 (2024)",
+  "brand": "Sennheiser",
+  "brand_website_url": "https://www.sennheiser-hearing.com/en-IN/p/momentum-true-wireless-4/",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 24990,
+  "base_price_source": "Sennheiser India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Sennheiser-Momentum-Wireless-Bluetooth-Cancellation/dp/B0CTQG6N7Q",
+      "price_inr": 22990
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/sennheiser-momentum-true-wireless-4-bluetooth-headset/p/itm5d8f2a6e3c7d1",
+      "price_inr": 23490
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 7,
+    "anc": true,
+    "battery_hrs_buds": 7.5,
+    "battery_hrs_case": 30.0,
+    "connectivity": "Bluetooth 5.4",
+    "ipx_rating": "IP54",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Audiophile-grade sound quality with Sennheiser's TrueResponse transducer system",
+    "Supports aptX Lossless, aptX Adaptive, AAC, and SBC codecs for high-quality audio transmission",
+    "Future-ready Bluetooth 5.4 platform with Auracast and LE Audio support",
+    "Excellent sound customization through Smart Control app with advanced EQ options"
+  ],
+  "cons": [
+    "Premium pricing places it among the most expensive TWS earbuds available",
+    "ANC performance is strong but slightly behind Sony and Bose flagships",
+    "Charging case is larger than some competing premium earbuds"
+  ],
+  "use_cases": [
+    "audiophile listening",
+    "music streaming",
+    "travel",
+    "office calls",
+    "high resolution audio"
+  ],
+  "description": "The Sennheiser Momentum True Wireless 4 (2024) is designed for users who prioritize sound quality above all else. Positioned as Sennheiser's flagship true wireless earbud, it targets audiophiles, music enthusiasts, and premium buyers looking for a highly refined listening experience while still offering modern conveniences such as ANC and multipoint connectivity.\n\nIn real-world performance, the TrueResponse 7mm dynamic drivers deliver exceptional detail retrieval, natural vocals, controlled bass response, and impressive soundstage characteristics. Support for aptX Lossless, aptX Adaptive, and LE Audio technologies allows compatible devices to take advantage of higher-quality wireless audio transmission. ANC performance effectively reduces environmental distractions while preserving audio fidelity.\n\nBattery life remains competitive, delivering up to 7.5 hours of playback from the earbuds and approximately 30 hours when combined with the charging case. Bluetooth 5.4 connectivity improves efficiency and stability while preparing the earbuds for future audio technologies such as Auracast broadcasting. Build quality is premium with durable materials and IP54 protection against dust and water exposure.\n\nPotential buyers should understand that the Momentum True Wireless 4 prioritizes audio fidelity over maximum ANC performance. Users seeking the strongest possible noise cancellation may prefer Sony or Bose alternatives. However, for listeners who place sound quality, codec support, and long-term audio performance at the top of their priorities, the Momentum True Wireless 4 is one of the strongest options available.",
+  "image_url": "",
+  "tags": [
+    "sennheiser momentum true wireless 4",
+    "sennheiser earbuds",
+    "audiophile tws",
+    "aptx lossless earbuds",
+    "premium earbuds",
+    "noise cancelling earbuds",
+    "bluetooth 5.4 earbuds",
+    "hi res audio earbuds",
+    "wireless earbuds",
+    "audiophile wireless earbuds"
+  ]
+},
+
+{
+  "id": "6d2f8b71-4c9e-4a5d-8f1c-3e7a9b2d5f84",
+  "name": "OPPO Enco Air4 Pro (2024)",
+  "brand": "OPPO",
+  "brand_website_url": "https://www.oppo.com/in/accessories/enco-air4-pro/",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 4999,
+  "base_price_source": "OPPO India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OPPO-Enco-Air4-Pro-Cancelling/dp/B0D7M2G5TQ",
+      "price_inr": 4499
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oppo-enco-air4-pro-bluetooth-headset/p/itm8b4f5e7d3c1a2",
+      "price_inr": 4699
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 12,
+    "anc": true,
+    "battery_hrs_buds": 12.0,
+    "battery_hrs_case": 44.0,
+    "connectivity": "Bluetooth 5.4",
+    "ipx_rating": "IP55",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Excellent battery life with up to 44 hours total playback",
+    "49dB adaptive active noise cancellation performs exceptionally well for the price segment",
+    "LHDC 5.0 support enables high-resolution wireless audio on compatible devices",
+    "Bluetooth 5.4 with multipoint connectivity improves device switching and connection stability"
+  ],
+  "cons": [
+    "Companion app offers fewer advanced audio customization options than premium competitors",
+    "ANC performance does not fully match flagship Sony or Bose earbuds",
+    "Plastic case construction feels less premium than higher-priced alternatives"
+  ],
+  "use_cases": [
+    "daily commuting",
+    "music listening",
+    "travel",
+    "office calls",
+    "students"
+  ],
+  "description": "The OPPO Enco Air4 Pro (2024) is positioned as a premium mid-range true wireless earbud that focuses on delivering flagship-inspired features at a significantly lower price point. It targets users who want effective active noise cancellation, excellent battery life, and high-resolution audio support without spending on ultra-premium earbuds.\n\nIn real-world performance, the 12.4mm dynamic drivers deliver strong bass response, clear vocals, and enjoyable overall sound quality. LHDC 5.0 support allows compatible Android devices to stream higher-quality audio, while adaptive ANC effectively reduces environmental noise during travel, office work, and daily commuting. Call quality remains strong due to AI-assisted noise reduction technologies.\n\nBattery life is one of the standout strengths of the Enco Air4 Pro. The earbuds can deliver up to 12 hours of playback on a single charge under optimal conditions and up to 44 hours when combined with the charging case. Bluetooth 5.4 connectivity improves efficiency and stability, while the IP55 rating offers protection against dust and water exposure during workouts and outdoor activities.\n\nPotential buyers should understand that while the ANC system performs impressively for its price category, flagship earbuds from Sony, Bose, and Apple still offer superior overall noise cancellation. However, users prioritizing value, battery life, and feature richness will find the OPPO Enco Air4 Pro one of the strongest options available in the mid-range TWS segment.",
+  "image_url": "",
+  "tags": [
+    "oppo enco air4 pro",
+    "oppo earbuds",
+    "noise cancelling earbuds",
+    "bluetooth 5.4 earbuds",
+    "lhdc earbuds",
+    "wireless earbuds",
+    "travel earbuds",
+    "budget premium tws",
+    "long battery earbuds",
+    "best tws under 5000"
+  ]
+},
+
+{
+  "id": "8c5e2f91-7a4d-4b8f-9c2e-5d1a7f3b6e84",
+  "name": "Bose QuietComfort Ultra Earbuds (2023)",
+  "brand": "Bose",
+  "brand_website_url": "https://www.bose.in/en_in/products/headphones/earbuds/quietcomfort-ultra-earbuds.html",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 29900,
+  "base_price_source": "Bose India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Bose-QuietComfort-Ultra-Earbuds-Cancelling/dp/B0CCZ26B5V",
+      "price_inr": 27999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/bose-quietcomfort-ultra-earbuds-bluetooth-headset/p/itm8d5c7a2f3b1e6",
+      "price_inr": 28499
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 10,
+    "anc": true,
+    "battery_hrs_buds": 6.0,
+    "battery_hrs_case": 24.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IPX4",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Among the best active noise cancellation performance available in any TWS earbuds",
+    "Immersive Audio technology creates a spacious and speaker-like listening experience",
+    "Excellent comfort due to Bose Fit Kit ear tips and stability bands",
+    "Outstanding voice call performance with advanced microphone processing"
+  ],
+  "cons": [
+    "Premium pricing is significantly higher than most competitors",
+    "Battery life is shorter than some premium rivals",
+    "No support for advanced high-resolution codecs such as LDAC or aptX Lossless"
+  ],
+  "use_cases": [
+    "travel",
+    "commuting",
+    "office calls",
+    "music listening",
+    "frequent flyers"
+  ],
+  "description": "The Bose QuietComfort Ultra Earbuds (2023) are Bose's flagship true wireless earbuds designed for users who prioritize maximum noise cancellation, premium comfort, and immersive audio experiences. Positioned at the very top of the premium TWS market, they compete directly with the Sony WF-1000XM5, Apple AirPods Pro 2, and Sennheiser Momentum True Wireless 4.\n\nIn real-world performance, the QuietComfort Ultra Earbuds deliver exceptional active noise cancellation that consistently ranks among the strongest available in the industry. Bose's Immersive Audio technology expands the perceived soundstage and creates a more engaging listening experience. Audio quality is balanced, detailed, and enjoyable across multiple genres while maintaining excellent vocal clarity.\n\nBattery life provides up to 6 hours of playback on a single charge and approximately 24 hours when combined with the charging case. The Bose Fit Kit system allows users to customize fit and stability for long listening sessions. Build quality feels premium and durable, while Bluetooth multipoint support improves usability across multiple devices.\n\nPotential buyers should note the premium price and the absence of advanced codecs such as LDAC or aptX Lossless. Users primarily focused on absolute audio fidelity may prefer Sennheiser's offerings. However, for travelers, commuters, and users seeking best-in-class noise cancellation, the QuietComfort Ultra Earbuds remain among the strongest choices available.",
+  "image_url": "",
+  "tags": [
+    "bose quietcomfort ultra earbuds",
+    "bose earbuds",
+    "premium tws",
+    "noise cancelling earbuds",
+    "travel earbuds",
+    "wireless earbuds",
+    "bluetooth 5.3 earbuds",
+    "office earbuds",
+    "multipoint earbuds",
+    "best anc earbuds"
+  ]
+},
+
+{
+  "id": "1f7b9c3e-5d4a-4e8f-b2c7-8a1d6f3b9e52",
+  "name": "boAt Airdopes Flex 454 ANC (2023)",
+  "brand": "boAt",
+  "brand_website_url": "https://www.boat-lifestyle.com/products/airdopes-flex-454-anc",
+  "category": "tws",
+  "launch_year": 2023,
+  "base_price_inr": 1999,
+  "base_price_source": "boAt Lifestyle",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/boAt-Airdopes-Flex-454-ANC/dp/B0D6P4N7J8",
+      "price_inr": 1799
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/boat-airdopes-flex-454-anc-bluetooth-headset/p/itm4f6b2c7e1d9a8",
+      "price_inr": 1849
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 10,
+    "anc": true,
+    "battery_hrs_buds": 10.0,
+    "battery_hrs_case": 45.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IPX5",
+    "charging_type": "USB-C",
+    "multipoint": false
+  },
+  "pros": [
+    "Active Noise Cancellation is rarely available at this aggressive price point",
+    "Ergonomic in-ear fit provides comfortable wear and stable noise isolation during commutes and workouts",
+    "Long-lasting battery endurance delivering up to 45 hours of total audio playback",
+    "ENx technology improves call quality during daily communication"
+  ],
+  "cons": [
+    "ANC performance is basic compared to premium TWS earbuds",
+    "No multipoint connectivity support",
+    "Audio detail and instrument separation are limited compared to higher-end models"
+  ],
+  "use_cases": [
+    "daily commuting",
+    "students",
+    "voice calls",
+    "budget music listening",
+    "workouts"
+  ],
+  "description": "The boAt Airdopes Flex 454 ANC (2023) is designed for budget-conscious buyers who want active noise cancellation, long battery life, and practical everyday usability without spending significantly on premium earbuds. It targets students, commuters, and first-time TWS buyers looking for a feature-rich product at an affordable price.\n\nIn real-world performance, the 10mm dynamic drivers deliver a bass-forward sound signature that suits mainstream music genres, video streaming, and casual listening. Active Noise Cancellation helps reduce low-frequency background noise in public transport and office environments, although it does not match the effectiveness of premium models from Sony, Bose, or Apple. ENx technology improves voice clarity during calls by reducing environmental distractions.\n\nBattery life is a major strength, offering approximately 10 hours of playback from the earbuds and up to 45 hours when combined with the charging case. Bluetooth 5.3 provides stable connectivity, while the IPX5 rating offers protection against sweat and light rain during workouts and outdoor use. The compact charging case design improves convenience when carrying the earbuds throughout the day.\n\nPotential buyers should understand that the ANC implementation is designed for value rather than flagship-level performance. Users seeking audiophile-grade sound quality or advanced smart features should consider higher-end alternatives. However, for buyers prioritizing affordability, battery life, and practical everyday features, the Airdopes Flex 454 ANC offers strong overall value.",
+  "image_url": "",
+  "tags": [
+    "boat airdopes flex 454 anc",
+    "boat earbuds",
+    "budget anc earbuds",
+    "wireless earbuds",
+    "bluetooth 5.3 earbuds",
+    "gaming earbuds",
+    "budget tws",
+    "long battery earbuds",
+    "usb c earbuds",
+    "best tws under 2000"
+  ]
+},
+
+{
+  "id": "7d1a9c4f-3e8b-4d5a-b2f7-6c9e1a4d8f35",
+  "name": "Redmi Buds 5 Pro (2024)",
+  "brand": "Redmi",
+  "brand_website_url": "https://www.mi.com/in/product/redmi-buds-5-pro/",
+  "category": "tws",
+  "launch_year": 2024,
+  "base_price_inr": 4999,
+  "base_price_source": "Xiaomi India",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Redmi-Buds-Pro-Cancelling-Bluetooth/dp/B0CW1JXK8P",
+      "price_inr": 4499
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/redmi-buds-5-pro-bluetooth-headset/p/itm3f8d5a7b6c2e1",
+      "price_inr": 4699
+    }
+  ],
+  "specs": {
+    "driver_size_mm": 11,
+    "anc": true,
+    "battery_hrs_buds": 10.0,
+    "battery_hrs_case": 38.0,
+    "connectivity": "Bluetooth 5.3",
+    "ipx_rating": "IP54",
+    "charging_type": "USB-C",
+    "multipoint": true
+  },
+  "pros": [
+    "Coaxial dual-driver setup with 11mm bass driver and piezoelectric tweeter delivers impressive sound quality for the segment",
+    "52dB active noise cancellation performance is among the strongest in the mid-range category",
+    "LDAC support enables high-resolution wireless audio streaming on compatible Android devices",
+    "Multipoint connectivity allows seamless switching between smartphones, tablets, and laptops"
+  ],
+  "cons": [
+    "Transparency mode is not as natural as premium offerings from Apple or Bose",
+    "Companion application experience is less polished than some flagship competitors",
+    "Charging case build quality feels less premium than higher-end TWS products"
+  ],
+  "use_cases": [
+    "music listening",
+    "travel",
+    "daily commuting",
+    "office calls",
+    "android users"
+  ],
+  "description": "The Redmi Buds 5 Pro (2024) is positioned as a premium mid-range true wireless earbud that focuses on delivering flagship-inspired audio features at a significantly lower price point. It targets users who want strong active noise cancellation, high-resolution audio support, and excellent battery life without entering the premium flagship category.\n\nIn real-world performance, the dual-driver coaxial acoustic architecture produces a rich and detailed sound signature with powerful bass, clear vocals, and improved treble extension compared to many competitors in its price segment. LDAC support enables compatible Android smartphones to stream higher-quality audio, while the 52dB active noise cancellation system effectively reduces environmental distractions during travel, office work, and commuting.\n\nBattery performance is one of the strongest aspects of the Redmi Buds 5 Pro. Users can expect approximately 10 hours of playback from the earbuds under optimal conditions and up to 38 hours when combined with the charging case. Bluetooth 5.3 connectivity ensures stable wireless performance, while multipoint connectivity improves productivity by allowing simultaneous connections to multiple devices. The IP54 rating provides resistance against dust and water exposure for everyday use.\n\nPotential buyers should understand that while ANC performance is excellent for the price category, flagship products from Sony, Bose, and Apple still offer superior noise cancellation and transparency capabilities. However, for users seeking maximum value, strong sound quality, modern connectivity features, and long battery life, the Redmi Buds 5 Pro stands out as one of the strongest mid-range TWS options currently available.",
+  "image_url": "",
+  "tags": [
+    "redmi buds 5 pro",
+    "redmi earbuds",
+    "xiaomi earbuds",
+    "noise cancelling earbuds",
+    "ldac earbuds",
+    "bluetooth 5.3 earbuds",
+    "wireless earbuds",
+    "travel earbuds",
+    "multipoint earbuds",
+    "best tws under 5000"
+  ]
+}
+
+]

@@ -1,0 +1,1006 @@
+[
+{
+  "id": "f8ec9b70-0ca5-46f0-90c8-cf22afcf3a10",
+  "name": "Samsung Galaxy S24 Ultra (2024)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/smartphones/galaxy-s24-ultra/",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 129999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5XW6TN",
+      "price_inr": 121999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-s24-ultra-5g-titanium-gray-256-gb/p/itm7d3d6b286ec65",
+      "price_inr": 122999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 3 for Galaxy",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.8,
+    "display_type": "Dynamic AMOLED 2X",
+    "camera_mp": 200,
+    "os": "Android 14",
+    "weight_grams": 232,
+    "charging_watts": 45
+  },
+  "pros": [
+    "Integrated S Pen provides unmatched productivity functionality in the flagship segment",
+    "200MP primary camera system delivers excellent zoom performance with dual telephoto setup",
+    "Snapdragon 8 Gen 3 for Galaxy offers industry-leading sustained performance",
+    "Seven years of Android updates significantly improve longevity"
+  ],
+  "cons": [
+    "45W charging feels slower than competing Android flagships",
+    "Large and heavy design reduces one-handed usability",
+    "Premium pricing makes it inaccessible for many buyers"
+  ],
+  "use_cases": [
+    "mobile photography",
+    "productivity",
+    "gaming",
+    "content creation",
+    "business users"
+  ],
+  "description": "The Samsung Galaxy S24 Ultra (2024) targets power users, creators, business professionals, and buyers seeking one of the most feature-complete Android flagships available. Positioned at the top of Samsung's smartphone lineup, it combines premium hardware, productivity tools, and long-term software support.\n\nIn real-world usage, the Snapdragon 8 Gen 3 for Galaxy delivers exceptional performance across gaming, multitasking, editing, and AI-assisted workloads. Thermal management is strong for sustained loads, and the Adreno GPU handles demanding titles smoothly at high refresh rates. The dedicated AI features integrated into One UI further expand productivity workflows.\n\nBattery life is reliable with the 5000mAh battery typically lasting through a full day of heavy use. The 6.8-inch Dynamic AMOLED 2X display is among the best available with high brightness, adaptive refresh rate support, and strong color accuracy. Titanium construction improves durability while maintaining a premium feel, although weight remains substantial.\n\nPotential buyers should note that charging speeds lag behind several Chinese competitors, and the large form factor may not suit users preferring compact devices. Pricing also places it firmly in the ultra-premium segment.",
+  "image_url": "",
+  "tags": [
+    "samsung galaxy s24 ultra",
+    "flagship smartphone",
+    "200mp camera phone",
+    "snapdragon 8 gen 3",
+    "s pen phone",
+    "best android phone",
+    "premium smartphone",
+    "gaming phone",
+    "camera phone",
+    "galaxy ai"
+  ]
+},
+
+{
+  "id": "2c4de1fe-b9c0-4f93-8a53-6f4d83ea1b11",
+  "name": "Apple iPhone 15 (2023)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/iphone-15/",
+  "category": "smartphone",
+  "launch_year": 2023,
+  "base_price_inr": 69900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-iPhone-15-128-GB-Blue/dp/B0CHX1W1XY",
+      "price_inr": 65999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-iphone-15-blue-128-gb/p/itm6ac6485515ae4",
+      "price_inr": 66999
+    }
+  ],
+  "specs": {
+    "processor": "Apple A16 Bionic",
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "battery_mah": 3349,
+    "display_inches": 6.1,
+    "display_type": "Super Retina XDR OLED",
+    "camera_mp": 48,
+    "os": "iOS 17",
+    "weight_grams": 171,
+    "charging_watts": 20
+  },
+  "pros": [
+    "A16 Bionic still delivers flagship-level sustained performance and efficiency",
+    "48MP main camera significantly improves detail and enables 2x optical-quality zoom",
+    "Excellent video recording quality with industry-leading stabilization",
+    "USB-C port improves compatibility with accessories and chargers"
+  ],
+  "cons": [
+    "60Hz refresh rate feels outdated at this price segment",
+    "Charging speed remains slower than Android competitors",
+    "Base storage variant starts at only 128GB"
+  ],
+  "use_cases": [
+    "mobile photography",
+    "content creation",
+    "social media",
+    "video recording",
+    "daily flagship usage"
+  ],
+  "description": "The Apple iPhone 15 (2023) targets users wanting a premium smartphone experience without moving into Pro-series pricing. Positioned as Apple's mainstream flagship, it focuses on camera improvements, strong performance, and long-term software support while retaining a compact form factor.\n\nReal-world performance remains excellent because of the A16 Bionic processor, which handles gaming, multitasking, editing applications, and demanding workloads effortlessly. GPU performance remains strong for mobile gaming, while thermal management is improved compared to older generations during sustained workloads.\n\nBattery life comfortably lasts a full day for most users, while the 6.1-inch Super Retina XDR OLED panel offers strong brightness, color reproduction, and outdoor visibility. Build quality remains premium with aluminum construction, Ceramic Shield protection, and IP68 resistance.\n\nPotential buyers should note that Apple still ships a 60Hz display despite competitors moving to higher refresh rates. Charging speeds are conservative, and storage upgrades become expensive quickly.",
+  "image_url": "",
+  "tags": [
+    "iphone 15",
+    "apple smartphone",
+    "ios phone",
+    "camera phone",
+    "a16 bionic",
+    "compact flagship",
+    "usb c iphone",
+    "premium smartphone",
+    "video recording phone",
+    "iphone 2024"
+  ]
+},
+
+{
+  "id": "e0dbfb56-72b7-4f1d-a6f0-5d30c4f0cfe9",
+  "name": "OnePlus 12 (2024)",
+  "brand": "OnePlus",
+  "brand_website_url": "https://www.oneplus.in/12",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 64999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OnePlus-Silky-Black-256GB-Storage/dp/B0CQYMMP94",
+      "price_inr": 61999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oneplus-12-silky-black-256-gb/p/itm347349f7db2f0",
+      "price_inr": 62999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5400,
+    "display_inches": 6.82,
+    "display_type": "LTPO AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 220,
+    "charging_watts": 100
+  },
+  "pros": [
+    "5400mAh battery delivers class-leading endurance among flagship phones",
+    "100W wired charging dramatically reduces charging downtime",
+    "Snapdragon 8 Gen 3 provides flagship gaming and multitasking performance",
+    "Bright LTPO AMOLED panel delivers excellent outdoor visibility"
+  ],
+  "cons": [
+    "Large and heavy body affects one-handed usability",
+    "Camera consistency still trails top-tier ultra flagships",
+    "Curved display may not appeal to all users"
+  ],
+  "use_cases": [
+    "gaming",
+    "content creation",
+    "power users",
+    "photography",
+    "multitasking"
+  ],
+  "description": "The OnePlus 12 (2024) targets flagship buyers who prioritize performance, battery life, charging speed, and premium hardware without crossing into ultra-premium pricing. Positioned as OnePlus's primary flagship, it competes directly against premium Android devices while offering aggressive value.\n\nIn real-world performance, the Snapdragon 8 Gen 3 combined with the Adreno 750 GPU handles demanding gaming, multitasking, heavy productivity workloads, and editing applications smoothly. Thermal management performs well during longer gaming sessions, allowing stable frame rates in demanding titles. OxygenOS remains responsive and optimized for heavy usage.\n\nBattery life is a major strength due to the large 5400mAh battery, frequently lasting a full heavy-use day. The 6.82-inch LTPO AMOLED display offers high brightness, adaptive refresh rates, and excellent color reproduction. Build quality feels premium with glass construction and IP65 protection, although weight is noticeable during prolonged usage.\n\nPotential buyers should note that camera tuning remains slightly behind the very best camera-focused flagships in certain conditions. The curved display design can create accidental touches for some users, and the larger footprint may not suit buyers wanting compact devices.",
+  "image_url": "",
+  "tags": [
+    "oneplus 12",
+    "snapdragon 8 gen 3",
+    "flagship smartphone",
+    "100w charging",
+    "gaming phone",
+    "camera smartphone",
+    "oxygenos",
+    "premium android phone",
+    "long battery phone",
+    "oneplus flagship"
+  ]
+},
+
+{
+  "id": "4a91cb54-5f97-4a5e-a1ef-1ec9f62b7d38",
+  "name": "Google Pixel 8a (2024)",
+  "brand": "Google",
+  "brand_website_url": "https://store.google.com/in/product/pixel_8a",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 52999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Google-Pixel-8a-Bay-128GB/dp/B0D2J7X8Z3",
+      "price_inr": 49999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/google-pixel-8a-bay-128-gb/p/itm1a04f58f29d6f",
+      "price_inr": 50999
+    }
+  ],
+  "specs": {
+    "processor": "Google Tensor G3",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 4492,
+    "display_inches": 6.1,
+    "display_type": "Actua OLED",
+    "camera_mp": 64,
+    "os": "Android 14",
+    "weight_grams": 188,
+    "charging_watts": 18
+  },
+  "pros": [
+    "Outstanding computational photography produces flagship-level photos",
+    "Seven years of Android updates significantly extend device longevity",
+    "Compact size improves one-handed usability compared to larger competitors",
+    "Clean Pixel software experience with strong AI integration"
+  ],
+  "cons": [
+    "Charging speed is noticeably slower than competing Android phones",
+    "Tensor G3 thermals remain weaker than Snapdragon flagship chips during heavy gaming",
+    "Thicker bezels compared to similarly priced competitors"
+  ],
+  "use_cases": [
+    "mobile photography",
+    "daily usage",
+    "content creation",
+    "compact phone users",
+    "android enthusiasts"
+  ],
+  "description": "The Google Pixel 8a (2024) targets users prioritizing cameras, clean software, AI features, and long-term software support without moving into premium flagship pricing. Positioned in Google's upper mid-range segment, it focuses heavily on user experience rather than raw hardware specifications.\n\nIn real-world usage, the Tensor G3 processor performs well for everyday multitasking, photography processing, productivity applications, and moderate gaming. GPU performance remains adequate for most games, although sustained heavy gaming sessions generate more heat than Snapdragon-powered alternatives. Google's AI-driven software features remain a major differentiator for productivity and photography workflows.\n\nBattery life comfortably supports a full day of mixed usage while the compact 6.1-inch Actua OLED panel offers strong brightness, smooth refresh rates, and excellent outdoor visibility. Build quality feels premium with aluminum construction and IP67 resistance, while the smaller dimensions improve ergonomics significantly.\n\nPotential buyers should note that charging performance is relatively slow compared to competing Android devices. Users prioritizing gaming performance or ultra-fast charging may find better alternatives, but few competitors match Pixel's camera consistency and software experience.",
+  "image_url": "",
+  "tags": [
+    "google pixel 8a",
+    "pixel camera phone",
+    "compact smartphone",
+    "android phone",
+    "tensor g3",
+    "camera smartphone",
+    "stock android",
+    "pixel ai",
+    "best camera phone",
+    "google smartphone"
+  ]
+},
+
+{
+  "id": "0a4d729d-f7f7-4ec6-b9c5-3f17f6298dc4",
+  "name": "Xiaomi 14 (2024)",
+  "brand": "Xiaomi",
+  "brand_website_url": "https://www.mi.com/in/product/xiaomi-14/",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 69999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Xiaomi-Storage-Snapdragon-Flagship-Photography/dp/B0CW1M6Q9J",
+      "price_inr": 65999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/xiaomi-14-jade-green-512-gb/p/itm8c8bb5e31488a",
+      "price_inr": 67999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "battery_mah": 4610,
+    "display_inches": 6.36,
+    "display_type": "LTPO AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 193,
+    "charging_watts": 90
+  },
+  "pros": [
+    "Compact flagship design offers premium performance without oversized dimensions",
+    "Leica-tuned camera system delivers strong color science and photography versatility",
+    "Snapdragon 8 Gen 3 provides flagship gaming and multitasking performance",
+    "90W charging significantly reduces charging time compared to many competitors"
+  ],
+  "cons": [
+    "Battery capacity is smaller than several competing flagship phones",
+    "HyperOS may include software elements some users prefer to disable",
+    "Premium pricing places it against stronger value-focused alternatives"
+  ],
+  "use_cases": [
+    "mobile photography",
+    "gaming",
+    "compact flagship users",
+    "content creation",
+    "power users"
+  ],
+  "description": "The Xiaomi 14 (2024) targets users seeking flagship hardware, compact dimensions, and premium camera capabilities without moving to oversized smartphones. Positioned as Xiaomi's mainstream flagship, it balances performance, cameras, and portability while emphasizing Leica camera tuning.\n\nIn real-world performance, the Snapdragon 8 Gen 3 combined with the Adreno 750 GPU delivers excellent results across gaming, multitasking, editing workloads, and productivity applications. Thermal performance is generally strong with stable gaming performance during longer sessions. HyperOS feels responsive and includes multiple AI-powered enhancements.\n\nBattery life comfortably supports full-day usage despite the relatively compact body. The 6.36-inch LTPO AMOLED display offers excellent brightness, adaptive refresh rates, and sharp visuals while remaining more ergonomic than larger flagships. Build quality feels premium with aluminum construction, IP68 protection, and compact flagship dimensions.\n\nPotential buyers should consider that the battery capacity is lower than some competing premium phones, and HyperOS customization may not appeal to users preferring cleaner Android experiences. However, users prioritizing compact flagship hardware receive one of the strongest options currently available.",
+  "image_url": "",
+  "tags": [
+    "xiaomi 14",
+    "compact flagship",
+    "snapdragon 8 gen 3",
+    "leica camera phone",
+    "premium smartphone",
+    "gaming phone",
+    "camera smartphone",
+    "hyperos phone",
+    "flagship android",
+    "90w charging"
+  ]
+},
+
+{
+  "id": "73c92e28-2db4-4f2b-b27e-4b1b9252f0ab",
+  "name": "Samsung Galaxy A55 (2024)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a55-5g-awesome-iceblue-256gb-sm-a556elbhins/",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 42999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Awesome-Iceblue-Storage-Nightography/dp/B0CX5DJ9SL",
+      "price_inr": 39999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-a55-5g-awesome-iceblue-256-gb/p/itm2f2d7bb66cb5e",
+      "price_inr": 40999
+    }
+  ],
+  "specs": {
+    "processor": "Samsung Exynos 1480",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.6,
+    "display_type": "Super AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 213,
+    "charging_watts": 25
+  },
+  "pros": [
+    "Premium metal frame construction feels significantly better than previous Galaxy A-series devices",
+    "Four generations of Android updates and five years of security updates improve longevity",
+    "Excellent display quality with bright Super AMOLED panel and 120Hz refresh rate",
+    "Reliable battery endurance consistently supports full-day heavy usage"
+  ],
+  "cons": [
+    "25W charging feels slow compared to similarly priced competitors",
+    "Exynos 1480 gaming performance trails Snapdragon alternatives in sustained workloads",
+    "Heavier design affects long-duration one-handed usage"
+  ],
+  "use_cases": [
+    "daily usage",
+    "content consumption",
+    "photography",
+    "students",
+    "business users"
+  ],
+  "description": "The Samsung Galaxy A55 (2024) targets mainstream buyers who prioritize software longevity, premium design, reliable cameras, and strong battery life without moving into flagship pricing. Positioned in Samsung's upper mid-range segment, it focuses heavily on balanced everyday usability rather than maximizing benchmark performance.\n\nIn real-world usage, the Exynos 1480 processor performs well for multitasking, social media, productivity applications, moderate gaming, and general workloads. Samsung's Xclipse GPU improves gaming performance compared to previous Exynos generations, although sustained heavy gaming still favors Snapdragon competitors. One UI remains feature-rich with strong ecosystem integration and productivity tools.\n\nBattery life is a major strength because the 5000mAh battery regularly delivers all-day endurance. The 6.6-inch Super AMOLED display provides vibrant colors, smooth 120Hz scrolling, strong outdoor visibility, and an enjoyable media experience. Build quality receives a major upgrade with the addition of a premium metal frame and IP67 protection.\n\nPotential buyers should note that charging speeds lag behind Chinese competitors in this segment, and performance-focused users may prefer alternatives with stronger gaming capabilities. However, long-term software support remains one of the strongest reasons to choose the device.",
+  "image_url": "",
+  "tags": [
+    "samsung galaxy a55",
+    "mid range smartphone",
+    "super amoled phone",
+    "samsung phone",
+    "5000mah battery phone",
+    "exynos 1480",
+    "camera smartphone",
+    "120hz display phone",
+    "android smartphone",
+    "premium midrange phone"
+  ]
+},
+
+{
+  "id": "8c2d74f9-0f49-43ef-9fb8-b35d2b7f14a6",
+  "name": "Realme GT 6 (2024)",
+  "brand": "Realme",
+  "brand_website_url": "https://www.realme.com/in/realme-gt-6",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 40999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/realme-Razor-Green-256GB-Storage/dp/B0D6NTRM5L",
+      "price_inr": 38999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/realme-gt-6-razor-green-256-gb/p/itm43e1d8c9c2f9c",
+      "price_inr": 39999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8s Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "display_inches": 6.78,
+    "display_type": "LTPO AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 199,
+    "charging_watts": 120
+  },
+  "pros": [
+    "Snapdragon 8s Gen 3 delivers near-flagship performance for gaming and multitasking",
+    "120W fast charging dramatically reduces charging time",
+    "Extremely bright LTPO AMOLED display performs well outdoors",
+    "Large 5500mAh battery provides excellent endurance"
+  ],
+  "cons": [
+    "Realme UI includes pre-installed apps many users may remove",
+    "Ultra-wide camera performance is weaker than primary camera quality",
+    "Large display size reduces one-handed usability"
+  ],
+  "use_cases": [
+    "gaming",
+    "content creation",
+    "power users",
+    "multitasking",
+    "media consumption"
+  ],
+  "description": "The Realme GT 6 (2024) targets users seeking flagship-like performance, extremely fast charging, and strong display quality at a price lower than premium flagship devices. Positioned in the upper mid-range segment, it emphasizes speed, battery life, and gaming capabilities while remaining aggressively priced.\n\nIn real-world performance, the Snapdragon 8s Gen 3 combined with the Adreno 735 GPU handles gaming, multitasking, editing applications, and demanding workloads smoothly. Thermal management is generally strong, maintaining stable performance during long gaming sessions while supporting high frame rates in demanding titles. Realme UI provides multiple gaming and optimization features for power users.\n\nBattery life is a major strength due to the large 5500mAh battery which comfortably lasts through heavy daily usage. The 6.78-inch LTPO AMOLED panel delivers high brightness, adaptive refresh rates, and strong color reproduction for media consumption and gaming. Build quality feels premium with a curved design and modern flagship-inspired appearance.\n\nPotential buyers should consider that software experience may not appeal to users preferring cleaner Android implementations. Camera performance is strong from the primary sensor but remains less consistent across secondary cameras compared to premium flagships. Users prioritizing performance-per-price, however, receive one of the strongest options in this segment.",
+  "image_url": "",
+  "tags": [
+    "realme gt 6",
+    "snapdragon 8s gen 3",
+    "gaming smartphone",
+    "120w charging",
+    "5500mah battery",
+    "flagship killer phone",
+    "realme smartphone",
+    "ltpo amoled display",
+    "performance smartphone",
+    "android gaming phone"
+  ]
+},
+
+{
+  "id": "3f8a41f9-92ec-4f0d-bd57-7d9a2ce841cb",
+  "name": "iQOO 12 (2023)",
+  "brand": "iQOO",
+  "brand_website_url": "https://www.iqoo.com/in/products/iqoo12",
+  "category": "smartphone",
+  "launch_year": 2023,
+  "base_price_inr": 52999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/iQOO-Storage-Snapdragon-Processor-Legend/dp/B07WHQMR25",
+      "price_inr": 50999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/iqoo-12-5g-legend-256-gb/p/itme1b8c2e3fd43f",
+      "price_inr": 51999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 8 Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.78,
+    "display_type": "LTPO AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 203,
+    "charging_watts": 120
+  },
+  "pros": [
+    "Snapdragon 8 Gen 3 delivers flagship-tier gaming and sustained performance",
+    "120W fast charging significantly reduces charging time",
+    "Strong thermal management maintains stable gaming frame rates",
+    "Periscope telephoto camera adds versatility uncommon at this price"
+  ],
+  "cons": [
+    "Funtouch OS may not appeal to users preferring cleaner Android experiences",
+    "IP64 rating is weaker than several flagship competitors",
+    "Large display dimensions reduce one-handed usability"
+  ],
+  "use_cases": [
+    "gaming",
+    "power users",
+    "mobile photography",
+    "content creation",
+    "multitasking"
+  ],
+  "description": "The iQOO 12 (2023) targets gamers, performance-focused buyers, and power users wanting flagship hardware without entering ultra-premium pricing. Positioned as iQOO's flagship offering, the device strongly emphasizes raw performance, fast charging, and gaming capabilities while maintaining competitive camera hardware.\n\nIn practical usage, the Snapdragon 8 Gen 3 paired with the Adreno 750 GPU delivers exceptional gaming performance and multitasking capability. Thermal optimization is one of the phone's strongest areas, maintaining stable performance during extended gaming sessions while handling heavy productivity workloads comfortably. High refresh rate gaming support further improves the experience for competitive players.\n\nBattery life is strong due to the 5000mAh battery, while the 120W charging system allows extremely fast top-ups. The 6.78-inch LTPO AMOLED display delivers high brightness, adaptive refresh rates, and excellent media consumption quality. Build quality feels premium with a modern flagship design and improved camera hardware including a useful telephoto implementation.\n\nPotential buyers should consider software preferences carefully because Funtouch OS remains more polarizing than cleaner Android implementations. Water resistance is not class-leading, and users preferring compact devices may find the size challenging for long-term usage.",
+  "image_url": "",
+  "tags": [
+    "iqoo 12",
+    "snapdragon 8 gen 3",
+    "gaming smartphone",
+    "120w charging",
+    "flagship killer phone",
+    "performance smartphone",
+    "ltpo amoled phone",
+    "camera smartphone",
+    "android flagship",
+    "mobile gaming phone"
+  ]
+},
+
+{
+  "id": "d62a7b11-90f2-4e68-91d3-8ec1f77f5c64",
+  "name": "Motorola Edge 50 Pro (2024)",
+  "brand": "Motorola",
+  "brand_website_url": "https://www.motorola.in/smartphones-motorola-edge-50-pro/p",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 31999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Motorola-Luxe-Lavender-256GB-Storage/dp/B0CZ9TBNR7",
+      "price_inr": 29999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/motorola-edge-50-pro-5g-luxe-lavender-256-gb/p/itm2f00a3d5dd89b",
+      "price_inr": 30999
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 7 Gen 3",
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "battery_mah": 4500,
+    "display_inches": 6.7,
+    "display_type": "pOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 186,
+    "charging_watts": 125
+  },
+  "pros": [
+    "125W wired charging is among the fastest in the segment",
+    "Pantone-validated display and cameras improve color accuracy",
+    "Premium design with vegan leather options and IP68 protection",
+    "Clean near-stock Android experience with useful Motorola features"
+  ],
+  "cons": [
+    "Snapdragon 7 Gen 3 trails flagship processors for heavy gaming",
+    "4500mAh battery capacity is smaller than many competitors",
+    "Long-term update policy is weaker than Samsung and Google"
+  ],
+  "use_cases": [
+    "photography",
+    "daily usage",
+    "content consumption",
+    "fast charging users",
+    "business users"
+  ],
+  "description": "The Motorola Edge 50 Pro (2024) targets users wanting premium design, fast charging, clean software, and balanced cameras without flagship pricing. Positioned in the upper mid-range segment, it emphasizes user experience and premium features rather than pure benchmark performance.\n\nIn practical usage, the Snapdragon 7 Gen 3 combined with the Adreno 720 GPU handles multitasking, productivity applications, social media workloads, moderate gaming, and content creation smoothly. Thermal performance remains controlled during extended use, although sustained gaming performance falls behind flagship devices. Motorola's near-stock Android approach provides a clean software experience with minimal bloat.\n\nBattery performance comfortably supports a full day of mixed usage despite the smaller 4500mAh cell because of software optimization. The 6.7-inch pOLED display delivers strong brightness, smooth refresh rates, and Pantone-certified color accuracy which improves content consumption and photography workflows. Build quality stands out with premium materials, IP68 protection, and lightweight ergonomics.\n\nPotential buyers should note that performance-focused users may prefer Snapdragon 8-series devices. Software support duration also trails some competitors, and battery capacity is smaller than competing phones in this price range. However, users prioritizing design, charging speed, and cleaner software receive a well-balanced package.",
+  "image_url": "",
+  "tags": [
+    "motorola edge 50 pro",
+    "125w charging phone",
+    "clean android smartphone",
+    "pOLED display phone",
+    "camera smartphone",
+    "motorola smartphone",
+    "premium midrange phone",
+    "pantone camera phone",
+    "android 14 smartphone",
+    "fast charging phone"
+  ]
+},
+
+{
+  "id": "5e0d8e34-bc56-4d2a-9240-f4c7f63a2a4e",
+  "name": "Nothing Phone 2a (2024)",
+  "brand": "Nothing",
+  "brand_website_url": "https://in.nothing.tech/pages/phone-2a",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 23999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Nothing-Phone-Black-128GB-Storage/dp/B0CX1YQ1XY",
+      "price_inr": 22999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/nothing-phone-2a-black-128-gb/p/itm85c6b6d0ef2d0",
+      "price_inr": 23999
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Dimensity 7200 Pro",
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "battery_mah": 5000,
+    "display_inches": 6.7,
+    "display_type": "Flexible AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 190,
+    "charging_watts": 45
+  },
+  "pros": [
+    "Unique Glyph lighting interface creates distinctive notification and utility experiences",
+    "Clean Nothing OS provides near-stock Android experience with minimal bloatware",
+    "Strong battery efficiency delivers reliable all-day endurance",
+    "Balanced dual 50MP camera system performs consistently in daylight and social media workflows"
+  ],
+  "cons": [
+    "No telephoto camera limits zoom capabilities",
+    "Gaming performance trails Snapdragon competitors in similar price ranges",
+    "Plastic frame reduces premium feel compared to metal alternatives"
+  ],
+  "use_cases": [
+    "daily usage",
+    "content consumption",
+    "students",
+    "social media",
+    "clean android users"
+  ],
+  "description": "The Nothing Phone 2a (2024) targets users seeking unique design, clean software, and balanced everyday performance without moving into premium pricing tiers. Positioned as Nothing's mass-market offering, it focuses heavily on user experience, aesthetics, and software optimization rather than chasing flagship specifications.\n\nIn practical usage, the MediaTek Dimensity 7200 Pro paired with the Mali-G610 GPU performs smoothly across social media, multitasking, productivity applications, moderate gaming, and content consumption workloads. Thermal management remains controlled during prolonged usage, while Nothing OS contributes to fluid animations and reduced software overhead. Gaming performance is respectable but remains below performance-focused alternatives.\n\nBattery life is one of the strongest aspects due to the efficient processor and large 5000mAh battery, frequently supporting full-day heavy usage. The 6.7-inch Flexible AMOLED display offers strong brightness, smooth refresh rates, and good outdoor visibility. Build quality feels modern with transparent design elements and the signature Glyph interface that differentiates it from competitors.\n\nPotential buyers should note that zoom photography capabilities are limited because of the lack of telephoto hardware. Users prioritizing maximum gaming performance may prefer Snapdragon-powered alternatives, but buyers wanting clean software and distinctive hardware receive one of the most unique devices in this segment.",
+  "image_url": "",
+  "tags": [
+    "nothing phone 2a",
+    "glyph interface phone",
+    "clean android smartphone",
+    "nothing os",
+    "midrange smartphone",
+    "5000mah battery phone",
+    "dimensity 7200 pro",
+    "camera smartphone",
+    "student smartphone",
+    "unique design smartphone"
+  ]
+},
+
+{
+  "id": "9db42d8f-44f1-4a90-a1d2-52a98bce7fb8",
+  "name": "Vivo V30 Pro (2024)",
+  "brand": "Vivo",
+  "brand_website_url": "https://www.vivo.com/in/products/v30pro",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 41999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/vivo-Storage-Dimensity-Processor-Camera/dp/B0CXF8KXW7",
+      "price_inr": 39999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/vivo-v30-pro-andaman-blue-256-gb/p/itm99d7cbfe2df55",
+      "price_inr": 40999
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Dimensity 8200",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.78,
+    "display_type": "AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 188,
+    "charging_watts": 80
+  },
+  "pros": [
+    "ZEISS-tuned triple 50MP camera setup delivers strong portrait photography",
+    "Slim and lightweight design improves ergonomics despite large display",
+    "80W charging provides quick battery top-ups",
+    "Bright curved AMOLED display enhances multimedia experience"
+  ],
+  "cons": [
+    "Dimensity 8200 is weaker than flagship competitors for gaming",
+    "No official IP68 water resistance rating",
+    "Funtouch OS includes software customizations not everyone prefers"
+  ],
+  "use_cases": [
+    "portrait photography",
+    "social media",
+    "content creation",
+    "daily usage",
+    "multimedia"
+  ],
+  "description": "The Vivo V30 Pro (2024) targets users prioritizing portrait photography, slim design, and premium aesthetics in the upper mid-range segment. Positioned heavily around camera performance, it emphasizes imaging and lifestyle-focused usage more than gaming-centric workloads.\n\nIn real-world use, the Dimensity 8200 combined with the Mali-G610 GPU delivers smooth multitasking, productivity performance, moderate gaming capability, and social media workloads. Thermal management remains stable for normal workloads, although heavy gaming sessions reveal its mid-premium positioning compared to flagship devices.\n\nBattery performance is strong due to the 5000mAh battery and efficient chipset combination. The 6.78-inch curved AMOLED display offers high brightness, smooth refresh rates, and immersive content consumption. Build quality is a major strength because of the lightweight construction and premium finish.\n\nPotential buyers should note that performance-focused users may find stronger gaming alternatives at similar pricing. However, users prioritizing cameras, aesthetics, and portability receive a strong overall package.",
+  "image_url": "",
+  "tags": [
+    "vivo v30 pro",
+    "zeiss camera phone",
+    "portrait smartphone",
+    "camera smartphone",
+    "80w charging",
+    "amoled display phone",
+    "vivo smartphone",
+    "slim smartphone",
+    "content creator phone",
+    "upper midrange smartphone"
+  ]
+},
+
+{
+  "id": "a82d20b5-2c4c-4fc9-b7d2-9f42f3ce2d90",
+  "name": "OnePlus Nord 4 (2024)",
+  "brand": "OnePlus",
+  "brand_website_url": "https://www.oneplus.in/nord-4",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 29999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/OnePlus-Mercurial-Silver-256GB-Storage/dp/B0D7VLN4KF",
+      "price_inr": 28999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/oneplus-nord-4-5g-mercurial-silver-256-gb/p/itm85c95efb7f8a0",
+      "price_inr": 29499
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 7+ Gen 3",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5500,
+    "display_inches": 6.74,
+    "display_type": "AMOLED",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 199,
+    "charging_watts": 100
+  },
+  "pros": [
+    "Metal unibody construction is rare in this segment",
+    "Snapdragon 7+ Gen 3 delivers near-flagship performance",
+    "100W charging dramatically reduces charging time",
+    "Excellent battery endurance from large 5500mAh battery"
+  ],
+  "cons": [
+    "Ultra-wide camera quality trails primary sensor",
+    "Large size affects one-handed usage",
+    "Curved software customization may not suit stock Android users"
+  ],
+  "use_cases": [
+    "gaming",
+    "students",
+    "daily usage",
+    "multitasking",
+    "content consumption"
+  ],
+  "description": "The OnePlus Nord 4 (2024) targets users seeking premium build quality, strong battery life, and flagship-like performance at mid-range pricing. Positioned as OnePlus's upper mid-range offering, it focuses heavily on performance and longevity.\n\nThe Snapdragon 7+ Gen 3 combined with the Adreno 732 GPU delivers excellent gaming, multitasking, and productivity performance. Thermal management remains controlled even during extended workloads.\n\nBattery life is one of its strongest features due to the large battery and efficient chipset. The AMOLED display provides smooth visuals and strong brightness while the metal construction improves premium feel.\n\nUsers prioritizing camera versatility may prefer alternatives with stronger secondary cameras.",
+  "image_url": "",
+  "tags": [
+    "oneplus nord 4",
+    "snapdragon 7 plus gen 3",
+    "100w charging",
+    "gaming smartphone",
+    "metal phone",
+    "battery phone",
+    "midrange smartphone",
+    "oneplus smartphone",
+    "performance phone",
+    "amoled smartphone"
+  ]
+},
+
+{
+  "id": "5a8f7fd1-7c73-4d2f-b0c1-5f7d5fd2f830",
+  "name": "Samsung Galaxy F55 (2024)",
+  "brand": "Samsung",
+  "brand_website_url": "https://www.samsung.com/in/smartphones/galaxy-f/galaxy-f55-5g/",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 26999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Samsung-Apricot-Crush-256GB-Storage/dp/B0D3X8C8Q4",
+      "price_inr": 25999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/samsung-galaxy-f55-5g-apricot-crush-256-gb/p/itm24e9ebf5fd8bc",
+      "price_inr": 26499
+    }
+  ],
+  "specs": {
+    "processor": "Qualcomm Snapdragon 7 Gen 1",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.7,
+    "display_type": "Super AMOLED Plus",
+    "camera_mp": 50,
+    "os": "Android 14",
+    "weight_grams": 180,
+    "charging_watts": 45
+  },
+  "pros": [
+    "Premium vegan leather finish improves grip and appearance",
+    "Long software support policy improves longevity",
+    "Slim lightweight design despite large battery",
+    "Super AMOLED Plus display offers strong media experience"
+  ],
+  "cons": [
+    "Snapdragon 7 Gen 1 feels dated versus competitors",
+    "Gaming performance is average",
+    "Camera processing can be inconsistent in low light"
+  ],
+  "use_cases": [
+    "students",
+    "daily usage",
+    "media consumption",
+    "social media",
+    "photography"
+  ],
+  "description": "The Galaxy F55 (2024) focuses on mainstream buyers wanting strong displays, reliable battery life, and premium aesthetics. Samsung positions it as a lifestyle-focused upper mid-range device.\n\nReal-world performance is smooth for multitasking and normal workloads, though gaming capability remains behind stronger competitors. One UI provides feature-rich software support.\n\nBattery performance remains strong with the 5000mAh cell. The AMOLED display and lightweight construction improve day-to-day usability.\n\nPerformance-focused users may prefer alternatives with newer processors.",
+  "image_url": "",
+  "tags": [
+    "galaxy f55",
+    "samsung smartphone",
+    "vegan leather phone",
+    "amoled smartphone",
+    "midrange smartphone",
+    "snapdragon 7 gen 1",
+    "battery phone",
+    "camera phone",
+    "student smartphone",
+    "android phone"
+  ]
+},
+
+{
+  "id": "9f50e4bc-a791-4e38-b8ae-4713eec8ea18",
+  "name": "Apple iPhone 15 Pro Max (2023)",
+  "brand": "Apple",
+  "brand_website_url": "https://www.apple.com/in/iphone-15-pro/",
+  "category": "smartphone",
+  "launch_year": 2023,
+  "base_price_inr": 159900,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/Apple-iPhone-Pro-Max-256GB/dp/B0CHX2W1Y8",
+      "price_inr": 148999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/apple-iphone-15-pro-max-natural-titanium-256-gb/p/itm4a5f69f1c64b0",
+      "price_inr": 151999
+    }
+  ],
+  "specs": {
+    "processor": "Apple A17 Pro",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 4441,
+    "display_inches": 6.7,
+    "display_type": "Super Retina XDR OLED",
+    "camera_mp": 48,
+    "os": "iOS 17",
+    "weight_grams": 221,
+    "charging_watts": 27
+  },
+  "pros": [
+    "A17 Pro provides industry-leading mobile performance",
+    "5x telephoto camera significantly improves zoom photography",
+    "Titanium frame reduces weight compared to previous generation",
+    "Exceptional video recording quality"
+  ],
+  "cons": [
+    "Very expensive pricing",
+    "Charging remains slower than Android flagships",
+    "Large size reduces comfort for smaller hands"
+  ],
+  "use_cases": [
+    "content creation",
+    "professional photography",
+    "gaming",
+    "videography",
+    "power users"
+  ],
+  "description": "The iPhone 15 Pro Max targets creators, professionals, and premium buyers wanting Apple's most capable smartphone. Positioned at the top of Apple's lineup, it emphasizes cameras, performance, and ecosystem integration.\n\nThe A17 Pro and 6-core GPU deliver excellent gaming and productivity performance while maintaining strong thermals. Video performance remains among the best available.\n\nBattery life comfortably supports full-day heavy workloads while the OLED display remains excellent for media consumption. Titanium construction improves durability and portability.\n\nUsers prioritizing fast charging may find Android alternatives stronger.",
+  "image_url": "",
+  "tags": [
+    "iphone 15 pro max",
+    "apple smartphone",
+    "a17 pro",
+    "camera phone",
+    "premium smartphone",
+    "ios phone",
+    "content creator phone",
+    "flagship phone",
+    "gaming phone",
+    "videography phone"
+  ]
+},
+
+{
+  "id": "1d6fd3cf-8c59-4d2d-80ca-5b5b6b06ef11",
+  "name": "Poco X6 Pro (2024)",
+  "brand": "Poco",
+  "brand_website_url": "https://www.po.co/in/product/poco-x6-pro-5g/",
+  "category": "smartphone",
+  "launch_year": 2024,
+  "base_price_inr": 26999,
+  "base_price_source": "Brand Website",
+  "availability": [
+    {
+      "platform": "Amazon India",
+      "url": "https://www.amazon.in/POCO-X6-Pro-5G-Black/dp/B0CSYFJQ8Q",
+      "price_inr": 25999
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/poco-x6-pro-5g-racing-grey-256-gb/p/itm8cdb15c2cb0aa",
+      "price_inr": 26499
+    }
+  ],
+  "specs": {
+    "processor": "MediaTek Dimensity 8300 Ultra",
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "battery_mah": 5000,
+    "display_inches": 6.67,
+    "display_type": "AMOLED",
+    "camera_mp": 64,
+    "os": "Android 14",
+    "weight_grams": 190,
+    "charging_watts": 67
+  },
+  "pros": [
+    "Excellent gaming performance for the price",
+    "Dimensity 8300 Ultra competes with higher-priced phones",
+    "Bright AMOLED display improves multimedia usage",
+    "Strong price-to-performance ratio"
+  ],
+  "cons": [
+    "HyperOS includes pre-installed apps",
+    "Camera quality is not class-leading",
+    "Plastic construction feels less premium"
+  ],
+  "use_cases": [
+    "gaming",
+    "students",
+    "performance users",
+    "content consumption",
+    "budget flagship buyers"
+  ],
+  "description": "The Poco X6 Pro (2024) targets performance-focused buyers wanting maximum hardware value. Positioned as a performance-first smartphone, it emphasizes gaming and speed over premium materials.\n\nThe Dimensity 8300 Ultra delivers impressive gaming and multitasking performance while maintaining strong thermal efficiency. GPU performance is particularly strong in this segment.\n\nBattery life remains reliable while fast charging minimizes downtime. The AMOLED display provides smooth visuals and strong brightness.\n\nCamera performance remains good but performance is clearly prioritized over photography.",
+  "image_url": "",
+  "tags": [
+    "poco x6 pro",
+    "gaming smartphone",
+    "dimensity 8300 ultra",
+    "budget flagship",
+    "performance smartphone",
+    "amoled phone",
+    "67w charging",
+    "poco smartphone",
+    "student smartphone",
+    "value phone"
+  ]
+}
+]
