@@ -67,6 +67,7 @@ class ProductBase(BaseModel):
     brand_website_url: str
     category: str = Field(..., pattern="^(laptop|smartphone|tablet|tws)$")
     launch_year: int = Field(..., ge=2000, le=2100)
+    base_price_inr: int = Field(..., gt=0),
     base_price_source: str = Field(default="Brand Website")
     availability: list[AvailabilityItem] = Field(..., min_length=1)
     specs: dict[str, Any]
