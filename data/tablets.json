@@ -4,7 +4,7 @@
   "name": "Apple iPad Air M2 (2024)",
   "brand": "Apple",
   "brand_website_url": "https://www.apple.com/in/ipad-air/",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2024,
   "base_price_inr": 59900,
   "base_price_source": "Brand Website",
@@ -39,7 +39,7 @@
     "Thin and lightweight aluminum construction improves portability"
   ],
   "cons": [
-    "60Hz display feels outdated compared to premium Android tablets",
+    "60Hz display feels outdated compared to premium Android tablet",
     "Accessories like keyboard and Pencil significantly increase overall cost",
     "Base storage may feel limited for creators handling large files"
   ],
@@ -70,8 +70,8 @@
   "id": "94b5b0e4-63a4-4d6c-8a8d-8df3fd9d4e2f",
   "name": "Samsung Galaxy Tab S9 FE (2023)",
   "brand": "Samsung",
-  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-s9-fe/",
-  "category": "tablets",
+  "brand_website_url": "https://www.samsung.com/in/tablet/galaxy-tab-s9-fe/",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 36999,
   "base_price_source": "Brand Website",
@@ -101,13 +101,13 @@
   },
   "pros": [
     "S Pen included in the box unlike many competitors",
-    "IP68 water and dust resistance is rare in tablets",
+    "IP68 water and dust resistance is rare in tablet",
     "Excellent software ecosystem for productivity tasks",
     "Strong battery life for students and note-taking"
   ],
   "cons": [
     "LCD panel lacks OLED contrast levels",
-    "Exynos performance trails flagship tablets",
+    "Exynos performance trails flagship tablet",
     "Charging speed is relatively slow"
   ],
   "use_cases": [
@@ -117,7 +117,7 @@
     "productivity",
     "digital learning"
   ],
-  "description": "The Galaxy Tab S9 FE (2023) targets students, productivity users, and consumers wanting premium Samsung tablet features without flagship pricing. Positioned below the Tab S9 lineup, it prioritizes practicality and ecosystem integration.\n\nThe Exynos 1380 performs well for multitasking, note-taking, media consumption, and productivity workloads. Gaming performance is adequate though not flagship-level. Samsung DeX improves productivity workflows.\n\nBattery life remains excellent with the large battery and efficient chipset. The display is bright and usable, while IP68 durability and bundled S Pen add meaningful value.\n\nUsers wanting premium displays or flagship performance may prefer higher-end tablets.",
+  "description": "The Galaxy Tab S9 FE (2023) targets students, productivity users, and consumers wanting premium Samsung tablet features without flagship pricing. Positioned below the Tab S9 lineup, it prioritizes practicality and ecosystem integration.\n\nThe Exynos 1380 performs well for multitasking, note-taking, media consumption, and productivity workloads. Gaming performance is adequate though not flagship-level. Samsung DeX improves productivity workflows.\n\nBattery life remains excellent with the large battery and efficient chipset. The display is bright and usable, while IP68 durability and bundled S Pen add meaningful value.\n\nUsers wanting premium displays or flagship performance may prefer higher-end tablet.",
   "image_url": "",
   "tags": [
     "galaxy tab s9 fe",
@@ -138,7 +138,7 @@
   "name": "Apple iPad Pro M4 (2024)",
   "brand": "Apple",
   "brand_website_url": "https://www.apple.com/in/ipad-pro/",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2024,
   "base_price_inr": 99900,
   "base_price_source": "Brand Website",
@@ -205,7 +205,7 @@
   "name": "OnePlus Pad 2 (2024)",
   "brand": "OnePlus",
   "brand_website_url": "https://www.oneplus.in/oneplus-pad-2",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2024,
   "base_price_inr": 39999,
   "base_price_source": "Brand Website",
@@ -271,8 +271,8 @@
   "id": "5b8f1a94-d9e7-4dc5-b8cc-0d83cf774a44",
   "name": "Samsung Galaxy Tab S9 (2023)",
   "brand": "Samsung",
-  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-s9/",
-  "category": "tablets",
+  "brand_website_url": "https://www.samsung.com/in/tablet/galaxy-tab-s9/",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 72999,
   "base_price_source": "Brand Website",
@@ -303,7 +303,7 @@
   "pros": [
     "Dynamic AMOLED 2X display delivers excellent colors and contrast",
     "Snapdragon 8 Gen 2 provides flagship tablet performance",
-    "IP68 rating offers rare water resistance in tablets",
+    "IP68 rating offers rare water resistance in tablet",
     "S Pen included in-box adds productivity value"
   ],
   "cons": [
@@ -339,7 +339,7 @@
   "name": "Realme Pad 2 (2023)",
   "brand": "Realme",
   "brand_website_url": "https://www.realme.com/in/realme-pad-2",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 19999,
   "base_price_source": "Brand Website",
@@ -406,7 +406,7 @@
   "name": "Xiaomi Pad 6 (2023)",
   "brand": "Xiaomi",
   "brand_website_url": "https://www.mi.com/in/product/xiaomi-pad-6/",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 26999,
   "base_price_source": "Brand Website",
@@ -452,7 +452,7 @@
     "productivity",
     "note taking"
   ],
-  "description": "The Xiaomi Pad 6 targets users wanting performance-focused tablets without premium flagship pricing. It balances gaming capability, media experience, and productivity.\n\nSnapdragon 870 performance remains excellent for gaming, multitasking, and content creation workloads. Thermal management remains stable during longer sessions.\n\nBattery life is excellent and the 144Hz panel improves overall responsiveness. Premium construction enhances overall usability.\n\nBuyers wanting OLED displays or premium accessories may prefer higher-end alternatives.",
+  "description": "The Xiaomi Pad 6 targets users wanting performance-focused tablet without premium flagship pricing. It balances gaming capability, media experience, and productivity.\n\nSnapdragon 870 performance remains excellent for gaming, multitasking, and content creation workloads. Thermal management remains stable during longer sessions.\n\nBattery life is excellent and the 144Hz panel improves overall responsiveness. Premium construction enhances overall usability.\n\nBuyers wanting OLED displays or premium accessories may prefer higher-end alternatives.",
   "image_url": "",
   "tags": [
     "xiaomi pad 6",
@@ -473,7 +473,7 @@
   "name": "Apple iPad 10th Gen (2022)",
   "brand": "Apple",
   "brand_website_url": "https://www.apple.com/in/ipad-10.9/",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2022,
   "base_price_inr": 34900,
   "base_price_source": "Brand Website",
@@ -505,7 +505,7 @@
     "Strong software optimization improves long-term usability",
     "A14 Bionic remains powerful for education and productivity",
     "Premium aluminum construction improves durability",
-    "Large app ecosystem optimized specifically for tablets"
+    "Large app ecosystem optimized specifically for tablet"
   ],
   "cons": [
     "64GB base storage feels restrictive",
@@ -539,8 +539,8 @@
   "id": "8fd9b2f5-d38c-45fd-93e4-95c1d8a2b721",
   "name": "Samsung Galaxy Tab A9 Plus(2023)",
   "brand": "Samsung",
-  "brand_website_url": "https://www.samsung.com/in/tablets/galaxy-tab-a9-plus/",
-  "category": "tablets",
+  "brand_website_url": "https://www.samsung.com/in/tablet/galaxy-tab-a9-plus/",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 22999,
   "base_price_source": "Brand Website",
@@ -606,8 +606,8 @@
   "id": "6fd0aeb3-a91c-4d6a-86c4-b25b13e8843a",
   "name": "Lenovo Tab P12 (2023)",
   "brand": "Lenovo",
-  "brand_website_url": "https://www.lenovo.com/in/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-p12/",
-  "category": "tablets",
+  "brand_website_url": "https://www.lenovo.com/in/en/p/tablet/android-tablet/lenovo-tab-series/lenovo-tab-p12/",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 29999,
   "base_price_source": "Brand Website",
@@ -673,8 +673,8 @@
   "id": "cf8d0ae2-6f2f-42df-9f64-4f6f0b9f2a85",
   "name": "Honor Pad 9 (2024)",
   "brand": "Honor",
-  "brand_website_url": "https://www.honor.com/in/tablets/honor-pad-9/",
-  "category": "tablets",
+  "brand_website_url": "https://www.honor.com/in/tablet/honor-pad-9/",
+  "category": "tablet",
   "launch_year": 2024,
   "base_price_inr": 24999,
   "base_price_source": "Brand Website",
@@ -720,7 +720,7 @@
     "reading",
     "multitasking"
   ],
-  "description": "The Honor Pad 9 targets students, entertainment users, and users wanting large-screen tablets without premium pricing. Positioned in the upper budget segment, it emphasizes display size and multimedia performance.\n\nThe Snapdragon 6 Gen 1 handles browsing, streaming, multitasking, and educational applications smoothly. Gaming performance remains moderate for demanding workloads.\n\nBattery life remains strong due to the large battery while the eight-speaker setup significantly improves entertainment experiences. The thin metal design improves handling despite the larger footprint.\n\nUsers requiring stylus functionality or creator-focused features may prefer alternatives.",
+  "description": "The Honor Pad 9 targets students, entertainment users, and users wanting large-screen tablet without premium pricing. Positioned in the upper budget segment, it emphasizes display size and multimedia performance.\n\nThe Snapdragon 6 Gen 1 handles browsing, streaming, multitasking, and educational applications smoothly. Gaming performance remains moderate for demanding workloads.\n\nBattery life remains strong due to the large battery while the eight-speaker setup significantly improves entertainment experiences. The thin metal design improves handling despite the larger footprint.\n\nUsers requiring stylus functionality or creator-focused features may prefer alternatives.",
   "image_url": "",
   "tags": [
     "honor pad 9",
@@ -741,7 +741,7 @@
   "name": "OnePlus Pad Go (2023)",
   "brand": "OnePlus",
   "brand_website_url": "https://www.oneplus.in/oneplus-pad-go",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2023,
   "base_price_inr": 19999,
   "base_price_source": "Brand Website",
@@ -787,7 +787,7 @@
     "online learning",
     "daily productivity"
   ],
-  "description": "The OnePlus Pad Go targets users wanting affordable tablets with good multimedia capabilities and strong battery life. It emphasizes value and everyday usability.\n\nThe Helio G99 processor performs adequately for classes, browsing, content streaming, and casual workloads. Heavier multitasking exposes performance limitations.\n\nBattery endurance is reliable while the large display and speakers improve entertainment experiences. Design quality feels more premium than typical budget tablets.\n\nUsers requiring stylus features or stronger productivity tools may need higher-end alternatives.",
+  "description": "The OnePlus Pad Go targets users wanting affordable tablet with good multimedia capabilities and strong battery life. It emphasizes value and everyday usability.\n\nThe Helio G99 processor performs adequately for classes, browsing, content streaming, and casual workloads. Heavier multitasking exposes performance limitations.\n\nBattery endurance is reliable while the large display and speakers improve entertainment experiences. Design quality feels more premium than typical budget tablet.\n\nUsers requiring stylus features or stronger productivity tools may need higher-end alternatives.",
   "image_url": "",
   "tags": [
     "oneplus pad go",
@@ -807,8 +807,8 @@
   "id": "0fa2dfd7-02c3-4833-8d79-f32196cb7fd5",
   "name": "Moto Tab G70 (2022)",
   "brand": "Motorola",
-  "brand_website_url": "https://www.motorola.in/tablets",
-  "category": "tablets",
+  "brand_website_url": "https://www.motorola.in/tablet",
+  "category": "tablet",
   "launch_year": 2022,
   "base_price_inr": 21999,
   "base_price_source": "Brand Website",
@@ -875,7 +875,7 @@
   "name": "Nokia T21 (2022)",
   "brand": "Nokia",
   "brand_website_url": "https://www.nokia.com/phones/en_in/nokia-t-21",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2022,
   "base_price_inr": 17999,
   "base_price_source": "Brand Website",
@@ -912,7 +912,7 @@
   "cons": [
     "Processor performance is limited for heavy multitasking",
     "Only 4GB RAM restricts demanding workloads",
-    "Display quality trails premium tablets"
+    "Display quality trails premium tablet"
   ],
   "use_cases": [
     "students",
@@ -921,7 +921,7 @@
     "media consumption",
     "travel"
   ],
-  "description": "The Nokia T21 targets students, education users, and buyers wanting affordable tablets with LTE connectivity. Positioned in the entry-level segment, it prioritizes battery life and practicality over performance.\n\nThe Unisoc T612 processor handles browsing, streaming, note-taking, and lightweight productivity workloads adequately. Heavy multitasking and gaming performance remain limited.\n\nBattery life is a major advantage due to the large battery capacity. The display remains suitable for educational workloads and media consumption while LTE support increases portability.\n\nUsers requiring stronger productivity performance or premium displays should consider higher-end alternatives.",
+  "description": "The Nokia T21 targets students, education users, and buyers wanting affordable tablet with LTE connectivity. Positioned in the entry-level segment, it prioritizes battery life and practicality over performance.\n\nThe Unisoc T612 processor handles browsing, streaming, note-taking, and lightweight productivity workloads adequately. Heavy multitasking and gaming performance remain limited.\n\nBattery life is a major advantage due to the large battery capacity. The display remains suitable for educational workloads and media consumption while LTE support increases portability.\n\nUsers requiring stronger productivity performance or premium displays should consider higher-end alternatives.",
   "image_url": "",
   "tags": [
     "nokia t21",
@@ -942,7 +942,7 @@
   "name": "Redmi Pad Pro (2024)",
   "brand": "Redmi",
   "brand_website_url": "https://www.mi.com/in/product/redmi-pad-pro/",
-  "category": "tablets",
+  "category": "tablet",
   "launch_year": 2024,
   "base_price_inr": 24999,
   "base_price_source": "Brand Website",
