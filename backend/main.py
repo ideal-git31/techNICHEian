@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from routers import products, search
+from routers import products, search, feedback
 
 app = FastAPI(
     title="TechNICHEian API",
@@ -22,3 +22,4 @@ app.add_middleware(
 
 app.include_router(products.router)
 app.include_router(search.router)
+app.include_router(feedback.router)
